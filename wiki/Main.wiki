@@ -1,0 +1,28 @@
+#summary Main project page with links to other pages
+
+= Introduction =
+
+In the Spring of 2011 at the University of Colorado at Boulder for the CSCI 5673 - Distributed Systems class instructed by Professor Rick Han a series of group projects were done utilizing the Amazon EC2 Cloud service.
+
+Amazon donated compute time to the students for their various group projects.
+
+This project provides documents for the projects, the source code, and the results.
+
+
+= Final Projects =
+
+* TODO wiki page link for groups that used Amazon cloud in their final project, page should include svn link
+* TODO ...2
+* TODO ...3
+* TODO ...4
+* TODO ...5
+
+= Homework Assignment =
+
+TODO link to another wiki page with copy of the homework assignment
+
+== Groups/Individuals Result ==
+
+* TODO list of each group/individual homework result, wiki page will document where data came from, path in SVN repository, etc
+* todo ...
+* todo ...
