@@ -1,5 +1,7 @@
 #summary Main project page with links to other pages
 
+[http://code.google.com/p/univ-colorado-distributed-systems-spring2011-amazon-cloud/w/edit/Main Edit this page]
+
 = Introduction =
 
 In the Spring of 2011 at the University of Colorado at Boulder for the CSCI 5673 - Distributed Systems class instructed by Professor Rick Han a series of group projects were done utilizing the Amazon EC2 Cloud service.
@@ -27,3 +29,5 @@ This project provides documents for the projects, the source code, and the resul
  * TODO list of each group/individual homework result, wiki page will document where data came from, path in SVN repository, etc
  * todo YourName Summary by First Last
  * todo ...
+
+[http://code.google.com/p/univ-colorado-distributed-systems-spring2011-amazon-cloud/w/edit/Main Edit this page]
