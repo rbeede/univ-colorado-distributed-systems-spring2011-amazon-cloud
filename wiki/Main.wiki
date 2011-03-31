@@ -11,18 +11,19 @@ This project provides documents for the projects, the source code, and the resul
 
 = Final Projects =
 
-* TODO wiki page link for groups that used Amazon cloud in their final project, page should include svn link
-* TODO ...2
-* TODO ...3
-* TODO ...4
-* TODO ...5
+ * TODO wiki page link for groups that used Amazon cloud in their final project, page should include svn link
+ * TODO ProjectName Summary of project (as wiki page link)
+ * TODO ...3
+ * TODO ...4
+ * TODO ...5
 
 = Homework Assignment =
 
-TODO link to another wiki page with copy of the homework assignment
+[HomeworkAssignmentDescription Description of the homework assignment]
 
 == Groups/Individuals Result ==
 
-* TODO list of each group/individual homework result, wiki page will document where data came from, path in SVN repository, etc
-* todo ...
-* todo ...
+ * [RodneyBeede US Census 2000 number frequency by Rodney Beede]
+ * TODO list of each group/individual homework result, wiki page will document where data came from, path in SVN repository, etc
+ * todo YourName Summary by First Last
+ * todo ...
