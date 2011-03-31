@@ -1,0 +1,132 @@
+Rodney Beede
+Due:  2011-03-04
+Hadoop programming project
+
+I created a micro instances on EC2 with Linux and installed the Cloudera scripts as per http://www.cloudera.com/blog/2009/05/using-clouderas-hadoop-amis-to-process-ebs-datasets-on-ec2/.
+
+I wrote to separate MapReduce classes that are combined to run together by a Main class.
+The first one simply calculates the frequency for all the numbers in the csv data ignoring non-numerics.
+The second sorts a given text file by the second column in descending order and outputs the data
+in second col {tab} first col.
+
+I ran using High CPU medium instances for my Hadoop cluster.
+
+10 instances were done in the first run.
+
+5 instances were done in the second run.
+
+4GB of input data was used.
+
+
+-----
+
+For 10 instances the following were started:
+
+Master is ec2-174-129-170-126.compute-1.amazonaws.com, ip is 10.195.159.192, zone is us-east-1b.
+Adding RodClass node(s) to cluster group RodClass with AMI ami-9136d1f8
+i-1f6d2c73
+i-196d2c75
+i-1b6d2c77
+i-156d2c79
+i-176d2c7b
+i-116d2c7d
+i-136d2c7f
+i-ed6d2c81
+i-ef6d2c83
+i-e96d2c85
+
+
+-----
+
+For 5 instances I stopped the worker nodes and restarted the cluster keeping the master node alive.
+I also backed up the 10 node run data first.
+
+Command used on micro instances with cloudera ec2 scripts:
+
+[ec2-user@ip-10-196-46-185:/home/ec2-user] $ ./AMAZON_EC2/cloudera-for-hadoop-on-ec2-0.3.0/bin/hadoop-ec2 launch-cluster RodClass 5
+Testing for existing master in group: RodClass
+Master already running on: ec2-174-129-170-126.compute-1.amazonaws.com
+Adding RodClass node(s) to cluster group RodClass with AMI ami-9136d1f8
+i-5b470737
+i-55470739
+i-5747073b
+i-5147073d
+i-5347073f
+
+
+-----
+
+
+10 Instances Run:
+
+Job to get frequency of numbers:
+Start Time:     Wed Feb 16 13:55:39 EST 2011
+Finish time:    Wed Feb 16 15:23:20 EST 2011
+Run Time (milliseconds):        5260655
+
+
+Job to get sort frequency of items:
+Start Time:     Wed Feb 16 15:23:20 EST 2011
+Finish time:    Wed Feb 16 15:23:44 EST 2011
+Run Time (milliseconds):        24581
+
+
+Total Run Time of All Jobs:
+Start Time:     Wed Feb 16 13:55:39 EST 2011
+Finish time:    Wed Feb 16 15:23:44 EST 2011
+Run Time (milliseconds):        5285237
+
+
+-----
+
+
+5 Instances Run:
+
+
+Job to get frequency of numbers:
+Start Time:     Wed Feb 16 17:54:00 EST 2011
+Finish time:    Wed Feb 16 19:47:44 EST 2011
+Run Time (milliseconds):        6823200
+
+
+
+Job to get sort frequency of items:
+Start Time:     Wed Feb 16 19:47:44 EST 2011
+Finish time:    Wed Feb 16 19:48:17 EST 2011
+Run Time (milliseconds):        33822
+
+
+Total Run Time of All Jobs:
+Start Time:     Wed Feb 16 17:54:00 EST 2011
+Finish time:    Wed Feb 16 19:48:17 EST 2011
+Run Time (milliseconds):        6857035
+
+
+
+==========
+
+Note that Hadoop stored the finished keys in files called part-0000X where X is the last character of the key.
+
+Each of the part- output files are sorted from most frequent to least for that group.
+
+
+==========
+
+
+ You should use at least 10 instances to perform the mapreduce calculations.  Feel free to vary the # of instances and type of instance to see how the performance varies.  Is it linear across number of instances for a given type?
+ 
+
+No.
+
+The total time for 10 instances was 5285237 ms or about  88 minutes.
+The total time for  5 instances was 6857035 ms or about 114 minutes.
+
+For linear differences you'd expect it to take twice as long with only 5 instances instead of 10.
+So a speed up isn't directly linear to an increased number of nodes.
+
+This is most likely due to overhead with I/O.
+
+
+==========
+
+Total setup time of the Amazon EC2 cluster and Amazon compute usage was about 8 hours.  I've used $13.86 of my Amazon credit.  My EBS I/O usage has already hit over half a million.
