@@ -42,7 +42,7 @@ Default dfs.replication of 3 is used for all tests.
 
 The following data is for instance types of m1.small.  The corresponding graph is "m1small.png".
 
-||Instance Type || Clstr Size ||  Load Time || Exec. Time || #Mappers ||  #Reducers ||   Aggregation || Combiner?||
+||*Instance Type* || *Clstr Size* ||  *Load Time* || *Exec. Time* || *#Mappers* ||  *#Reducers* ||   *Aggregation* || *Combiner?* ||
 ||m1.small      ||          5 ||   4:43.50  ||  13:35.77  ||      92  ||        1         || 10:03         || No       ||
 ||m1.small      ||         10 ||   4:38.20  ||  10:27.56  ||      92  ||        1         || 7:29          || No       ||
 || m1.small     ||         19 ||    6:17.32 ||    9:06.56 ||      92  ||        1         || 6:08         || No ||
@@ -60,19 +60,19 @@ The following data is for instance types of m1.small.  The corresponding graph i
 The following data is for instance types of c1.medium.
 The corresponding graph is "c1medium.png".
 
-Instance Type  Clstr Size  Load Time  Exec. Time  #Mappers  #Reducers   Aggregation  Combiner?
-c1.medium               5    3:05.89     5:19.73        92          1          3:04         No
-c1.medium              10    3:04.34     4:49.53        92          1          2:40         No
-c1.medium              19    3:12.29     4:32.87        92          1          2:23         No
-c1.medium               5         --     4:51.35       100          5          2:34         No
-c1.medium              10         --     3:42.59       100         10          1:35         No
-c1.medium              19         --     3:07.11       100         20          1:02         No
-c1.medium               5         --     4:02.78        92          1          1:50        Yes
-c1.medium              10         --     3:20.79        92          1          1:08        Yes
-c1.medium              19         --     3:45.77        92          1          1:40        Yes
-c1.medium               5         --     4:22.14       100          5          2:04        Yes
-c1.medium              10         --     3:26.61       100         10          1:18        Yes
-c1.medium              19         --     3:00.24       100         20          0:52        Yes
+|| *Instance Type* || *Clstr Size* || *Load Time* ||  *Exec. Time* || *#Mappers* ||  *#Reducers* ||  *Aggregation* || *Combiner?* ||
+||c1.medium||               5||    3:05.89||     5:19.73||        92||          1||          3:04||         No||
+||c1.medium||              10||    3:04.34||     4:49.53||        92||          1||          2:40||         No||
+||c1.medium||              19||    3:12.29||     4:32.87||        92||          1||          2:23||         No||
+||c1.medium||               5||         --||     4:51.35||       100||          5||          2:34||         No||
+||c1.medium||              10||         --||     3:42.59||       100||         10||          1:35||         No||
+||c1.medium||              19||         --||     3:07.11||       100||         20||          1:02||         No||
+||c1.medium||               5||         --||     4:02.78||        92||          1||          1:50||        Yes||
+||c1.medium||              10||         --||     3:20.79||        92||          1||          1:08||        Yes||
+||c1.medium||              19||         --||     3:45.77||        92||          1||          1:40||        Yes||
+||c1.medium||               5||         --||     4:22.14||       100||          5||          2:04||        Yes||
+||c1.medium||              10||         --||     3:26.61||       100||         10||          1:18||        Yes||
+||c1.medium||              19||         --||     3:00.24||       100||         20||          0:52||        Yes||
 
 
 = Results = 
@@ -80,6 +80,7 @@ c1.medium              19         --     3:00.24       100         20          0
 I found that there were 4 maximal cliques of size 27.  These sets of airports are listed below.
 
 $ ./largest_airport_cliques.py output3/part-00000 
+|| *Clique1* || *Clique2* || *Clique3* || *Clique4* ||
 || ATL (Atlanta, GA)                || ATL (Atlanta, GA)                || ATL (Atlanta, GA)                || ATL (Atlanta, GA)                 || 
 || BNA (Nashville, TN)              || BNA (Nashville, TN)              || BNA (Nashville, TN)              || BNA (Nashville, TN)               || 
 || BOS (Boston, MA)                 || BOS (Boston, MA)                 || BOS (Boston, MA)                 || BOS (Boston, MA)                  || 
