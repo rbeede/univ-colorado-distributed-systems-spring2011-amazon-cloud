@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Most Frequent Routes by Airline in 2007 and Maximal Clique of US Airports
 
 = Introduction =
 
@@ -8,6 +8,17 @@ CSCI5673
 
 Hadoop EC2 MapReduce Assignment
 
+= Slides = 
+
+View the slides at the link below:
+
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Brent_Smith/CSCI5673-Hadoop-EC2-Assigment.pdf
+
+= Source Code = 
+
+Browse the source code using the link below:
+
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Brent_Smith/
 
 = Description =
 
