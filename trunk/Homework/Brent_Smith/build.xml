@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- build file for ant -->
+<project name="csci5673" default="jar" basedir=".">
+    <property environment="env"/>
+    <property name="lib.home"     value="./lib" />
+    <property name="build.home"   value="./build" />
+    <property name="src.home"     value="./src" />
+    <property name="jarfile"      value="csci5673-brent-smith.jar" />
+    
+    <target name="clean">
+        <delete dir="${build.home}" />
+        <delete file="${jarfile}"/>
+    </target>
+
+    <path id="compile.classpath">
+        <pathelement location="${build.home}" />
+        <fileset dir="${lib.home}">
+            <include name="*.jar" />
+        </fileset>
+        <fileset dir="." includes="*.jar" />
+    </path>
+    
+    <target name="init" >
+        <mkdir dir="${build.home}"/>
+    </target>
+
+    <target name="build" depends="init">
+        <javac srcdir="${src.home}"
+               destdir="${build.home}"
+               encoding="UTF-8"
+               debug="true"
+               debuglevel="lines,source"
+               verbose="false">
+            <classpath refid="compile.classpath"/>
+            <include name="**/**.java"/>
+        </javac>
+
+        <copy todir="${build.home}" verbose="true">
+            <fileset dir="${src.home}">
+                <include name="**/*.properties"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="jar" depends="build" description="Build jar">
+        <delete file="${jarfile}" />
+        <jar jarfile="${jarfile}"
+            basedir="${build.home}" >
+        </jar>
+    </target>
+</project>
+
