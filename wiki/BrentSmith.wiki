@@ -22,6 +22,8 @@ _Aggregator.java_ file.
 
 The image file containing the histogram is "mostfreqroutes_bycarrier.png".
 
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Brent_Smith/mostfreqroutes_bycarrier.png
+
 = Maximal Clique = 
 
 I also wanted to do something a little more challenging with the data to understand how difficult it is to do something other than simple aggregation.  The idea I decided on was to use a graph algorithm to figure out the largest complete subgraph of the graph of all origins and destinations.  This is commonly known as the maximal clique problem in graph theory.  I thought this would be interesting, since it should tell you the largest set of airports for which every airport in the set has a direct route to every other airport in the set.  
@@ -56,6 +58,8 @@ The following data is for instance types of m1.small.  The corresponding graph i
 || m1.small     ||          10 ||        -- ||    7:13.29 ||      100 ||       10        ||  4:20       || Yes ||
 || m1.small     ||          19 ||        -- ||    5:16.00 ||      100 ||        20        ||  2:33       || Yes ||
 
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Brent_Smith/m1small.png
+
 
 The following data is for instance types of c1.medium.
 The corresponding graph is "c1medium.png".
@@ -73,6 +77,8 @@ The corresponding graph is "c1medium.png".
 ||c1.medium||               5||         --||     4:22.14||       100||          5||          2:04||        Yes||
 ||c1.medium||              10||         --||     3:26.61||       100||         10||          1:18||        Yes||
 ||c1.medium||              19||         --||     3:00.24||       100||         20||          0:52||        Yes||
+
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Brent_Smith/c1medium.png
 
 
 = Results = 
