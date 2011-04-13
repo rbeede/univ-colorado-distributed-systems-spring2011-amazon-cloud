@@ -27,6 +27,7 @@ This project provides documents for the projects, the source code, and the resul
 
  * [RodneyBeede US Census 2000 number frequency by Rodney Beede]
  * [BrentSmith Most Frequent Routes by Airline in 2007 and Maximal Clique of US Airports by Brent Smith]
+ * [JonathanMeador Temperature number frequency of North America weather stations from 2000-2005 by Jonathan Meador]
  * TODO list of each group/individual homework result, wiki page will document where data came from, path in SVN repository, etc
  * todo YourName Summary by First Last
  * todo ...
