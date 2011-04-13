@@ -1,14 +1,14 @@
 #summary One-sentence summary of this page.
 
+*Not finish yet, should be done by 4/15/2011 *
+
 = Introduction =
 Decided to do a mapreduce on temperature reading from station located in NorthAmerica. Overall I wanted to see the most frequent temperature from 2000-2005.
 
-
-= Details =
-*Source Code*
+= Source Code =
 Source code can be found <>
 I decided to write 2 map reduce to first collect the data and then second sort it in terms of frequency. Another way to do this is to implement something called a "secondsort" that runs between MAP and REDUCE to order the data in the format you want.
 
-*Results*
+= Results =
 Results of the final output can be found <>
 Results of the raw data not order can be found<>
