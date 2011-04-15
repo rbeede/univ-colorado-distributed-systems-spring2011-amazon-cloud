@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
-
-Most frequently used Facebook applications
+#summary Most frequently used Facebook applications
 
 = Introduction =
 
