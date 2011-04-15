@@ -1,0 +1,53 @@
+For this assignment, I chose to look at some Facebook application data.  The 
+data was obtained from the Networking Group at UC Irvine.  They asked that
+I include the bibtex of their work:
+
+@inproceedings{mgjoka_wosn08,
+author= {Minas Gjoka and Michael Sirivianos and Athina Markopoulou and
+Xiaowei Yang},
+title= { {Poking Facebook: Characterization of OSN Applications} },
+booktitle = {Proceedings of ACM SIGCOMM Workshop on Online Social
+Networks (WOSN) '08},
+address = {Seattle, WA},
+month = {August},
+year = {2008}
+}
+
+There were two Facebook application data sets here.  One contained information
+on what applications each user had installed for a certain time period.  The 
+other included information relating to the number of installations and uses
+per day for all applications registered on Facebook during the time span from
+08/29/2007 to 02/14/2008.  I chose to look at this latter data set.
+
+I took a few liberties with the specifications.  Rather than try to find the 
+most common value.  I chose to sort the "daily uses" data.  This will be an 
+indication of how popular a particular application is or was.  There is some
+debate about whether this is a valid index of popularity, but I'm not here to 
+argue that.
+
+Looking back at this assignment, there were a few things that I've taken away.
+
+1) Hadoop is still in its infancy in a sense.  The API seems to be changing
+pretty rapidly.  Much of the early API is now deprecated.  Unfortunately,
+many MapReduce examples come from the early APIs.  I tried using one of the
+newer APIs initially, but I ran into problems with it.  0.18.3 seems to be
+the widely-accepted, stable version.
+
+2) Hadoop/MapReduce is not well-suited for lots of small files.  My data set
+contained many small files.  I could have tried to coallesce them, but I would
+have lost some of the app metadata (app name/id would have been lost).
+
+3) Don't reinvent the wheel.  I didn't realize until very late in the process 
+that MapReduce had ValueAggregators.  I started out trying to implement some
+of this myself when I could have used existing implementations.
+
+4) There are some very useful Amazon/Hadoop/MapReduce tools out there.  The 
+Cloudera scripts were very useful.  The ElasticFox Plugin for Firefox is 
+useful for managing AMIs, etc.  S3Organizer, another FireFox plugin was pretty
+helpful too.
+
+
+
+There seems to be a bug in my program.  It gets the max result for each
+app.  But it doesn't aggregate over all of the apps.  Also, I started 
+implementing the histogram part, but I ran out of time to run it.
