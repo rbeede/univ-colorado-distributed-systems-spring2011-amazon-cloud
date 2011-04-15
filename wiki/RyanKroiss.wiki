@@ -1,0 +1,30 @@
+#summary One-sentence summary of this page.
+
+Most frequently used Facebook applications
+
+= Introduction =
+
+My project analyzed a [http://odysseas.calit2.uci.edu/doku.php/public:online_social_networks#facebook_applications data set] from the Networking Group at the University of California - Irvine.  They kindly allowed me to use the data set.
+
+I chose to look at the number of times each application was used within a day over a certain time period.  Some people use this as an indicator of popularity.  Others suggest that this is a poor metric.  Regardless, the results were interesting.  To respect the wishes of the data providers, I will post the code but not the data nor results.
+
+
+= Details =
+
+
+
+
+= Citation =
+
+Citation of work done by the researchers that allowed me to use the data:
+
+@inproceedings{mgjoka_wosn08,
+author= {Minas Gjoka and Michael Sirivianos and Athina Markopoulou and
+Xiaowei Yang},
+title= { {Poking Facebook: Characterization of OSN Applications} },
+booktitle = {Proceedings of ACM SIGCOMM Workshop on Online Social
+Networks (WOSN) '08},
+address = {Seattle, WA},
+month = {August},
+year = {2008}
+}
