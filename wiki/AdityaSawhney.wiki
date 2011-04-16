@@ -34,3 +34,9 @@ The approach is to break it down into 3 stages (corresponds to MapReduce) tasks 
 
 ==Results==
 The results of normal and histogram (use -h option) are provided along with the source code. In terms of execution time following are the observations:
+
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/AdityaSawhney/ExecutionTime.png
+
+The visualization of the total movies/decade in form of histogram is as follows:
+
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/AdityaSawhney/MoviesHistogram.png
