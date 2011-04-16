@@ -9,8 +9,7 @@ This data set contained the number of active users and total installations daily
 
 = Details =
 
-My [http://code.google.com/p/univ-colorado-distributed-systems-spring2011-amazon-cloud/source/browse/#svn%2Ftrunk%2FHomework%2FRyan_Kroiss
- implementation] takes advantage of the [http://hadoop.apache.org/mapreduce/docs/current/api/org/apache/hadoop/mapreduce/lib/aggregate/package-summary.html ValueAggregator] class.  This greatly simplifies the task of calculating aggregates with MapReduce.
+My [http://code.google.com/p/univ-colorado-distributed-systems-spring2011-amazon-cloud/source/browse/#svn%2Ftrunk%2FHomework%2FRyan_Kroiss implementation] takes advantage of the [http://hadoop.apache.org/mapreduce/docs/current/api/org/apache/hadoop/mapreduce/lib/aggregate/package-summary.html ValueAggregator] class.  This greatly simplifies the task of calculating aggregates with MapReduce.
 
 
 = Citation =
