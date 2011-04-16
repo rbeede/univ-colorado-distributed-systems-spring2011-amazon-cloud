@@ -10,6 +10,10 @@ This is a bit tricky because the dataset corresponds to actors and not movies. W
 
 Essentially, we need to _uniquely_ count the movie-year combinations.
 
+= Source Code =
+Source code for this homework exercise is available for browsing and download at
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/AdityaSawhney/
+
 = Details =
 Following section introduces the dataset, details the approach and corresponding results.
 
