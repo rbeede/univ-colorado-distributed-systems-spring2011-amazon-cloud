@@ -7,13 +7,17 @@ My project analyzed a [http://odysseas.calit2.uci.edu/doku.php/public:online_soc
 I chose to look at the number of times each application was used within a day over a certain time period.  Some people use this as an indicator of popularity.  Others suggest that this is a poor metric.  Regardless, the results were interesting.  To respect the wishes of the data providers, I will post the code but not the data nor results.
 
 
-= Source Code =
+= Details =
+
+
+== Source Code ==
 
 http://code.google.com/p/univ-colorado-distributed-systems-spring2011-amazon-cloud/source/browse/#svn%2Ftrunk%2FHomework%2FRyan_Kroiss
 
 
-= Highlights = 
+== Highlights ==
 
+My implementation takes advantage of the [http://hadoop.apache.org/mapreduce/docs/current/api/org/apache/hadoop/mapreduce/lib/aggregate/package-summary.html ValueAggregator] class.  This greatly simplifies the task of calculating aggregates with MapReduce.  
 
 
 = Citation =
