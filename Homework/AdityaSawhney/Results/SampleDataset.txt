@@ -1,0 +1,1000 @@
+FIRSTNAME | LASTNAME | TITLE | YEAR | TYPE | POSITION | GENDER
+Michael | 'babeepower' Viera | Rock Steady  | 2002 | M |  | M
+Michael | 'babeepower' Viera | "Lyricist Lounge Show, The"  | 2000 | M |  | M
+Eloy | 'Chincheta' | ¡Ja me maaten...!  | 2000 | M | 20 | M
+Antonio | 'El de Chipiona' | Guitarra muda, La  | 1953 | M |  | M
+José | 'El Francés' | Alma gitana  | 1996 | M | 45 | M
+Félix | 'El Gato' | Pelotazo nacional  | 1993 | M | 12 | M
+Félix | 'El Gato' | "Querida Concha"  | 1992 | M |  | M
+Félix | 'El Gato' | "Uno para todas"  | 1995 | M | 4 | M
+Miguel | 'El Happy' Lora | "Granja tolima, La"  | 2004 | M |  | M
+Marcial | 'El Jalisco' | Entre las patas de los caballos  | 2000 | M | 10 | M
+José | 'El Morito' | Torrente 2: Misión en Marbella  | 2001 | M | 24 | M
+Francisco | 'El Niño de la Manola' | Almendros - Plaza nueva -, Los  | 2000 | M |  | M
+Víctor | 'El Payaso' | De la calle  | 2001 | M | 83 | M
+Antonio | 'El Pescaíto' | Almendros - Plaza nueva -, Los  | 2000 | M |  | M
+Luis | 'El Plojo' | De la calle  | 2001 | M | 80 | M
+Janny | 'el Portugues' | Contrabandista, La  | 1982 | M | 22 | M
+Antonio | 'El Rilete' | Almendros - Plaza nueva -, Los  | 2000 | M |  | M
+Baltazar | 'El Toro' | Operación narcóticos  | 1991 | M | 20 | M
+Luis Roberto | 'Formiga' | OP Pro 88 - Barra, Rio  | 1988 | M |  | M
+ | 'Goochi' | Everybody's Business  | 1993 | M | 1 | M
+Murray the | 'K' | Beatles at Shea Stadium, The  | 1966 | M |  | M
+Murray the | 'K' | Beatles: The First U.S. Visit, The  | 1994 | V |  | M
+Murray the | 'K' | Day the Music Died, The  | 1977 | M |  | M
+Murray the | 'K' | I Wanna Hold Your Hand  | 1978 | M | 47 | M
+Murray the | 'K' | That's the Way of the World  | 1975 | M |  | M
+Murray the | 'K' | "Beatles Anthology, The"  | 1995 | mini |  | M
+Néstor | 'Kick Boxer' | Violencia urbana  | 1996 | M | 21 | M
+Tony | 'La Chispa' | Caceria de judiciales  | 1997 | M | 11 | M
+Tony | 'La Chispa' | Violencia en la sierra  | 1995 | M | 4 | M
+ | 'Raff' | Reflections of Evil  | 2002 | M | 57 | M
+Pollino | 'Romero' | Estatua, La  | 1961 | M |  | M
+Frans | 't Hoen | Dorp aan de rivier  | 1958 | M |  | M
+Frans | 't Hoen | Zaak M.P., De  | 1960 | M |  | M
+Jorrit | 't Hoen | "Oog in oog"  | 1990 | M |  | M
+Dick | 't Hooft | Moord in extase  | 1984 | M | 46 | M
+Jacob | 'The Jeweler' | Def Jam Fight for NY  | 2004 | VG | 31 | M
+Jacob | 'The Jeweler' | State Property  | 2002 | M | 53 | M
+Izzy | 'The Religious Nut' | Twister: A Musical Catastrophe  | 2000 | V | 15 | M
+Ka'olelo | 'Ulaleo | Pele's Appeal  | 1990 | M |  | M
+Oswald | 'Ô' | Skate - O Esporte Emoção  | 1987 | M |  | M
+ | *NSYNC | 101 Biggest Celebrity Oops  | 2004 | TV |  | M
+ | *NSYNC | 1998 Billboard Music Awards, The  | 1998 | TV |  | M
+ | *NSYNC | 2000 MTV Movie Awards  | 2000 | TV | 39 | M
+ | *NSYNC | 26th Annual American Music Awards, The  | 1998 | TV |  | M
+ | *NSYNC | 28th Annual American Music Awards, The  | 2001 | TV |  | M
+ | *NSYNC | Bubblegum Babylon  | 2002 | TV |  | M
+ | *NSYNC | L'Oreal Summer Music Mania  | 1999 | TV |  | M
+ | *NSYNC | MTV Snowed In 2000  | 2000 | TV |  | M
+ | *NSYNC | MTV Video Music Awards 2001  | 2001 | TV | 5 | M
+ | *NSYNC | MTV Video Music Awards 2002  | 2002 | TV |  | M
+ | *NSYNC | Super Bowl XXXV Halftime Show  | 2001 | TV |  | M
+ | *NSYNC | Teen Choice Awards 2002, The  | 2002 | TV |  | M
+ | *NSYNC | Walt Disney World Very Merry Christmas Parade  | 1999 | TV |  | M
+Todd | 1 | Who's the Man?  | 1993 | M | 10 | M
+Todd | 1 | "Awake on the Wild Side"  | 1990 | M |  | M
+Todd | 1 | "Fade to Black"  | 1991/II | M |  | M
+Todd | 1 | "Yo! MTV Raps"  | 1988 | M |  | M
+Mac | 10 | Love Hollywood Style  | 2005 | M |  | M
+Dave | 104 | Austin Prowler  | 1999 | M |  | M
+Angel | 11:11 | Big Apple  | 2001/II | M | 2 | M
+Angel | 11:11 | Young Americans  | 2004 | M |  | M
+Angel | 11:11 | Zoolander  | 2001 | M | 87 | M
+Nick | 13 | Live Freaky Die Freaky  | 2003 | voice | 1 | M
+The | 1st German Air Force Band | Hamina Tattoo  | 2004 | TV |  | M
+The | 1st Indian Air Force Band | Hamina Tattoo  | 2004 | TV |  | M
+Shaggy | 2 Dope | Backyard Wrestling 2: There Goes the Neighborhood  | 2004 | VG | 19 | M
+Shaggy | 2 Dope | Big Money Hustlas  | 2000 | V | 2 | M
+Shaggy | 2 Dope | Bowling Balls  | 2004 | V | 2 | M
+Shaggy | 2 Dope | Juggalo Championship Wrestling Volume 1  | 2000 | V |  | M
+Shaggy | 2 Dope | Summerslam  | 1998 | V |  | M
+Shaggy | 2 Dope | WCW Road Wild '99  | 1999 | V |  | M
+Shaggy | 2 Dope | "Raw Is War"  | 1997 | M |  | M
+Shaggy | 2 Dope | "Sunday Night Heat"  | 1998 | M |  | M
+Shaggy | 2 Dope | "WCW Monday Nitro"  | 1995 | M | 90 | M
+Shaggy | 2 Dope | "WCW Saturday Night"  | 1991 | M |  | M
+Shaggy | 2 Dope | "WCW Thunder"  | 1998 | M |  | M
+Shaggy | 2 Dope | "WCW Worldwide Wrestling"  | 1991 | M |  | M
+ | 2 Live Crew | "And You Don't Stop: 30 Years of Hip-Hop"  | 2004 | mini |  | M
+ | 2 Live Crew | "Retrosexual: The 80's"  | 2004 | mini |  | M
+Mode | 2 | 3000 scénarios contre un virus  | 1994 | M | 82 | M
+Mode | 2 | Just to Get a Rep  | 2004 | M |  | M
+ | 2nd Marine Division Band | Thunder in Carolina  | 1960 | M |  | M
+ | 2Shae | "Pimp My Ride"  | 2004 | M |  | M
+Benjamin | 2X | Malcolm X: Make It Plain  | 1994 | TV | 130 | M
+ | 3 Doors Down | TMF Awards 2004  | 2004 | TV |  | M
+ | 3 Doors Down | "Experience Live at the Sky Church"  | 2003 | M |  | M
+ | 3 Steps Ahead | Thunderdome a Decade  | 2002 | V |  | M
+The | 3 Whippets | All-Colored Vaudeville Show, An  | 1935 | M | 3 | M
+André | 3000 | 1st Annual BET Awards  | 2001 | TV | 39 | M
+André | 3000 | 30th Annual American Music Awards, The  | 2003 | TV |  | M
+André | 3000 | 35th NAACP Image Awards  | 2004 | TV |  | M
+André | 3000 | 46th Annual Grammy Awards, The  | 2004 | TV | 47 | M
+André | 3000 | 4th Annual BET Awards  | 2004 | TV |  | M
+André | 3000 | Be Cool  | 2005 | a | 5 | M
+André | 3000 | Brit Awards 2004  | 2004 | TV |  | M
+André | 3000 | Four Brothers  | 2006 | M |  | M
+André | 3000 | Hip Hop Babylon 2  | 2003 | TV |  | M
+André | 3000 | Hollywood Homicide  | 2003 | a | 17 | M
+André | 3000 | MTV Icon: Janet Jackson  | 2001 | TV |  | M
+André | 3000 | MTV Mardi Gras 2002  | 2002 | TV |  | M
+André | 3000 | MTV Video Music Awards 2001  | 2001 | TV |  | M
+André | 3000 | MTV Video Music Awards 2003  | 2003 | TV |  | M
+André | 3000 | My Life in Idlewild  | 2005 | M |  | M
+André | 3000 | Nickelodeon Kids' Choice Awards '04  | 2004 | TV |  | M
+André | 3000 | Scarface: Origins of a Hip Hop Classic  | 2003 | V |  | M
+André | 3000 | Soundz of Spirit  | 2003 | M |  | M
+André | 3000 | TV's Illest Minority Moments Presented by Ego Trip  | 2004 | TV |  | M
+André | 3000 | Untitled Andre Benjamin Project  | 2005 | M |  | M
+André | 3000 | Whasango  | 2001 | M |  | M
+André | 3000 | "And You Don't Stop: 30 Years of Hip-Hop"  | 2004 | mini |  | M
+Franco | 30lance | Traviata a luci rosse  | 2004 | V |  | M
+Franco | 30lance | Veuve sans pudeur, La  | 2002 | V |  | M
+Articolo | 31 | Erba proibita, L'  | 2002 | M | 5 | M
+ | 3rd Rail | Bloody Streetz  | 2003 | V | 3 | M
+ | 3rd Storee | Honey  | 2003 | M | 46 | M
+ | 4 Out of 5 Doctors | House on Sorority Row, The  | 1983 | M | 17 | M
+Rappin' | 4-Tay | Girls Gone Wild: Doggy Style  | 2002 | V |  | M
+Rappin' | 4-Tay | Tupac: Resurrection  | 2003 | archiv |  | M
+Rappin' | 4-Tay | Winner Takes All  | 1998 | TV |  | M
+ | 4-Zone | Beat, The  | 2003 | M |  | M
+ | 40 Drag Queens | Hollywood: The Movie  | 1996 | V |  | M
+ | 400 Blows | Buddyhead Presents: Punk Is Dead  | 2005 | V |  | M
+The | 4D Jones | Kes  | 1969 | M | 12 | M
+Mick | 5 | Plainsong  | 1982 | M |  | M
+ | 50 Cent | 2003 MTV Movie Awards  | 2003 | TV |  | M
+ | 50 Cent | 2003 Radio Music Awards  | 2003 | TV |  | M
+ | 50 Cent | 3rd Annual BET Awards  | 2003 | TV |  | M
+ | 50 Cent | 46th Annual Grammy Awards, The  | 2004 | TV |  | M
+ | 50 Cent | Beef  | 2003 | M | 1 | M
+ | 50 Cent | Beef 2  | 2004 | M |  | M
+ | 50 Cent | Boogie special: 50 Cent  | 2003 | TV | 2 | M
+ | 50 Cent | Brit Awards 2004  | 2004 | TV | 15 | M
+ | 50 Cent | Evolution of Eminem, The  | 2004 | TV |  | M
+ | 50 Cent | Fromage 2003  | 2003 | TV |  | M
+ | 50 Cent | Groupie Love  | 2004 | V | 1 | M
+ | 50 Cent | Hip Hop Babylon 2  | 2003 | TV |  | M
+ | 50 Cent | Locked and Loaded  | 2005 | M |  | M
+ | 50 Cent | MTV Bash: Carson Daly  | 2003 | TV |  | M
+ | 50 Cent | MTV Does Miami  | 2003 | TV |  | M
+ | 50 Cent | MTV Europe Music Awards 2002  | 2002 | TV |  | M
+ | 50 Cent | MTV Europe Music Awards 2003  | 2003 | TV |  | M
+ | 50 Cent | MTV Video Music Awards 2003  | 2003 | TV |  | M
+ | 50 Cent | Shady National Convention, The  | 2004 | TV | 4 | M
+ | 50 Cent | "And You Don't Stop: 30 Years of Hip-Hop"  | 2004 | mini |  | M
+James | 52X | Malcolm X  | 1972 | archiv |  | M
+ | 6-Pack | ID&T Presents the Darkraver  | 2004 | V |  | M
+ | 6995 | Let Me Be Your Band  | 2003 | M | 4 | M
+Lucky | 7 | Gendernauts  | 1999 | M | 15 | M
+Marc | 7 | Sweet Potato Pie  | 2004 | V |  | M
+Equipe | 84 | Europa canta  | 1966 | M |  | M
+ | 98 Degrees | 26th Annual American Music Awards, The  | 1998 | TV |  | M
+ | 98 Degrees | 28th Annual American Music Awards, The  | 2001 | TV |  | M
+ | 98 Degrees | Bubblegum Babylon  | 2002 | TV |  | M
+ | 98 Degrees | L'Oreal Summer Music Mania  | 1999 | TV |  | M
+ | 98 Degrees | Walt Disney World Very Merry Christmas Parade  | 1999 | TV |  | M
+ | 999 | Punk's Not Dead  | 2004 | M |  | M
+ | @Mic | Fake Movies  | 2003 | V |  | M
+ | @Mic | Up Late with Liam  | 2003 | V | 2 | M
+Ahmed | A El Rahim | "Obecana zemlja"  | 2002 | M | 5 | M
+Dragan | a zovu ga Elvis | Decak iz Junkovca  | 1995 | M | 31 | M
+Brett | A'Hearn | Watch the Shadows Dance  | 1987 | M | 19 | M
+Lejaren | a'Hiller | Sleep of Cyma Roget, The  | 1920 | M | 5 | M
+Yussuf Abed | A'Nur | Me'Ahorei Hasoragim  | 1984 | M |  | M
+John | A | Busty Backdoor Nurses  | 1996 | V |  | M
+Yunga | A | Hei dao  | 1989 | M |  | M
+ | A-Hito | Miami Shakedown  | 1993 | M | 23 | M
+ | A-Man | Go to Hell  | 1999 | M |  | M
+ | A-Trak | Hang the DJ  | 1998 | M | 4 | M
+Cairns | A. | Patrick  | 2004 | M |  | M
+Dominique | A. | Peau de cochon  | 2004 | M |  | M
+Marko | A. | Blackmen Cruising Crenshaw  | 1999 | V |  | M
+Narayana Rao | A. | Vara Vikrayam  | 1939 | M | 11 | M
+Prasad | A. | Pelli Chesi Choodu  | 1988 | M | 8 | M
+Satyanarayana | A. | Vara Vikrayam  | 1939 | M | 13 | M
+Easy | A.D. | Beat This!: A Hip Hop History  | 1984 | TV |  | M
+Easy | A.D. | Wild Style  | 1982 | M |  | M
+Easy | A.D. | "And You Don't Stop: 30 Years of Hip-Hop"  | 2004 | mini |  | M
+ | A.D.G. | "Histoires de fiction"  | 2003 | a |  | M
+ | A.G. | Who's the Man?  | 1993 | M | 83 | M
+ | A.J. (I) | 1st Annual BET Awards  | 2001 | TV | 12 | M
+ | A.J. (I) | 2nd Annual BET Awards  | 2002 | TV |  | M
+ | A.J. (I) | 3rd Annual BET Awards  | 2003 | TV |  | M
+ | A.J. (I) | BET Comedy Awards  | 2004 | TV |  | M
+ | A.J. (I) | Slip N' Slide: All Star Weekend 2  | 2004 | V |  | M
+ | A.J. (I) | "106 & Park Top 10 Live"  | 2000 | M | 1 | M
+ | A.J. (I) | "Moolah Beach"  | 2001 | M | 11 | M
+ | A.J. (II) | Anal Addicts 11  | 2003 | V |  | M
+ | A.J. (II) | Bizarre Peroxide Tales  | 2003 | V |  | M
+ | A.J. (II) | Buttman's Bend Over Babes 6  | 2003 | V |  | M
+ | A.J. (II) | Tia Bella: Extreme Close-up 3  | 1998 | V |  | M
+ | A.J. (III) | Misty Beethoven: The Musical  | 2004 | V | 21 | M
+ | A.J. (III) | Not Far From Heaven 2  | 2004 | V |  | M
+ | A.J. (IV) | Wild Style  | 1982 | a |  | M
+ | A.J. (IV) | "And You Don't Stop: 30 Years of Hip-Hop"  | 2004 | mini |  | M
+ | A.J. (V) | Leather Bears at Play  | 1997 | V | 7 | M
+Narayana | A.L. | Santanam  | 1955 | M | 17 | M
+Raja | A.M. | Pakka Inti Ammayi  | 1953 | M | 4 | M
+Kapoor | A.P. | Bhedi Trishul  | 1927 | M |  | M
+Krishna | A.R. | Anugraham  | 1978 | M | 7 | M
+Krishna | A.R. | Mahaveera  | 1988 | M |  | M
+Krishna | A.R. | Mit Jayenge Mitane Wale  | 1977 | M |  | M
+Krishna | A.R. | Oka Oori Katha  | 1977 | M |  | M
+ | A.R.S. | Bombay  | 1995 | M | 20 | M
+Alwi | A.S. | Cinta segi tiga  | 1983 | M |  | M
+Alwi | A.S. | Melody cinta  | 1982 | M |  | M
+Alwi | A.S. | "Rumah masa depan"  | 1984 | M |  | M
+Giri | A.S. | Sumangali  | 1940 | M | 2 | M
+Subba Rao | A.V. Jr. | Sri Venkateswara Mahatmyam  | 1960 | M | 15 | M
+Subba Rao | A.V. | Chenchu Lakshmi  | 1958/I | M | 10 | M
+Subba Rao | A.V. | Jayabheri  | 1959 | M | 17 | M
+Subba Rao | A.V. | Madalasa  | 1948 | M | 3 | M
+Subba Rao | A.V. | Mangalya Balam  | 1958 | M | 12 | M
+Subba Rao | A.V. | Mohini Bhasmasura  | 1938 | M | 3 | M
+Subba Rao | A.V. | Palletoori Pilla  | 1950 | M | 4 | M
+Subba Rao | A.V. | Peddamanushulu  | 1954 | M | 6 | M
+Subba Rao | A.V. | Sarangadhara  | 1957 | M | 12 | M
+Subba Rao | A.V. | Sri Seetha Rama Kalyanam  | 1961 | M | 12 | M
+Subba Rao | A.V. | Sri Venkateswara Mahatmyam  | 1960 | M | 5 | M
+Subba Rao | A.V. | Vara Vikrayam  | 1939 | M | 12 | M
+Subba Rao | A.V. | Vindhyarani  | 1948 | M | 7 | M
+ | A.X.L. | Claudine  | 2002 | V | 12 | M
+Brynjar | Aa | Adjø solidaritet  | 1985 | M | 40 | M
+Andreas | Aabel | Bør Børson Jr.  | 1938 | M | 9 | M
+Andreas | Aabel | Jeppe på bjerget  | 1933 | M |  | M
+Andreas | Aabel | Kampen om tungtvannet  | 1948 | M | 8 | M
+Andreas | Aabel | Prinsessen som ingen kunne målbinde  | 1932 | M | 3 | M
+Andreas | Aabel | Spøkelse forelsker seg, Et  | 1946 | M | 6 | M
+Hauk (I) | Aabel | Alexander den store  | 1917 | M |  | M
+Hauk (I) | Aabel | Du har lovet mig en kone!  | 1935 | M | 6 | M
+Hauk (I) | Aabel | Glad gutt, En  | 1932 | M | 1 | M
+Hauk (I) | Aabel | Jeppe på bjerget  | 1933 | M | 1 | M
+Hauk (I) | Aabel | Morderen uten ansikt  | 1936 | M |  | M
+Hauk (I) | Aabel | Store barnedåpen, Den  | 1931 | M | 5 | M
+Hauk (I) | Aabel | Troll-Elgen  | 1927 | M | 9 | M
+Hauk (I) | Aabel | Ungen  | 1938 | M | 8 | M
+Hauk (I) | Aabel | Valfångare  | 1939 | M | 4 | M
+Per (I) | Aabel | Brudebuketten  | 1953 | M | 3 | M
+Per (I) | Aabel | Cafajestes, Os  | 1962 | M |  | M
+Per (I) | Aabel | Farlige leken, Den  | 1942 | M |  | M
+Per (I) | Aabel | Herre med bart, En  | 1942 | M | 1 | M
+Per (I) | Aabel | Kjære Maren  | 1976 | M |  | M
+Per (I) | Aabel | Kjærlighet og vennskap  | 1941 | M | 3 | M
+Per (I) | Aabel | Ombyte förnöjer  | 1939 | M | 2 | M
+Per (I) | Aabel | Portrettet  | 1954 | M | 1 | M
+Per (I) | Aabel | Slik kan det gjøres. Husmorfilmen 1954  | 1954 | M | 1 | M
+Per (I) | Aabel | Spøkelse forelsker seg, Et  | 1946 | M | 1 | M
+Per (I) | Aabel | Tre önskningar  | 1960 | M | 5 | M
+Per (I) | Aabel | Uncertain Glory  | 1944 | M |  | M
+Palle | Aabentoft | Mørkeræd  | 1998 | M | 5 | M
+Dennis | Aaberg | Big Wednesday  | 1978 | M | 14 | M
+Linus (I) | Aaberg | Chicken in the Case, The  | 1921 | M | 6 | M
+Linus (I) | Aaberg | Jamaica Run  | 1953 | M |  | M
+Linus (I) | Aaberg | President's Lady, The  | 1953 | M |  | M
+Linus (II) | Aaberg | Kristin Lavransdatter  | 1995 | M |  | M
+Linus (II) | Aaberg | "Första kärleken"  | 1992 | mini |  | M
+Kristian | Aaby | Søndagsengler  | 1996 | M |  | M
+Olaf | Aabye | Olsen Banden Junior  | 2001 | M |  | M
+ | Aadil | Gandhi  | 1982 | M | 104 | M
+Tørres | Aadland | Omringet  | 1960 | M | 22 | M
+Tørres | Aadland | Shetlandsgjengen  | 1954 | M |  | M
+Argo | Aadli | Nimed marmortahvlil  | 2002 | M | 10 | M
+Argo | Aadli | Yantarnye krylya  | 2003 | M |  | M
+Argo | Aadli | "Kodu keset linna"  | 2003 | M |  | M
+Per | Aaeng | Heksenetter  | 1954 | M | 21 | M
+ | Aafaq | Chalte Chalte  | 2003 | M | 16 | M
+Karl | Aagaard Østvig Jr. | Unge viljer  | 1943 | M |  | M
+Carl Powl | Aagaard | Powls i (k)nibe - koncertgyseren 'Flaskernes nat', The  | 2003 | V |  | M
+Cecil | Aagaard | Ti gutter og en gjente  | 1944 | M | 18 | M
+Egon | Aagaard | Jeg fandt en sang på vejen  | 1977 | TV |  | M
+Egon | Aagaard | Næste stop paradis  | 1980 | M | 17 | M
+Egon | Aagaard | "Matador"  | 1978 | M |  | M
+Jesper | Aagaard | Partitalen  | 2002 | M | 1 | M
+Lasse | Aagaard | Bananen - Skræl den før din nabo  | 1990 | M | 5 | M
+Sebastian | Aagaard-Williams | Husk lige håndtasken - Nytårsaften med Ole  | 2003 | TV | 3 | M
+Sebastian | Aagaard-Williams | Mgp 2003 - de unges melodi grand prix  | 2003 | TV | 18 | M
+Sebastian | Aagaard-Williams | Møgunger  | 2003 | M |  | M
+Sebastian | Aagaard-Williams | "Jesus & Josefine"  | 2003 | M | 9 | M
+Sebastian | Aagaard-Williams | "Jesus, Josefine og budskabet bag"  | 2003 | M |  | M
+Karl | Aagard Østvig | Villmarkens lov  | 1944 | M | 6 | M
+Per | Aage Brandt | Talk Like Whales  | 1993 | M | 3 | M
+Jan | Aagre | Begynnelsen på en historie  | 1988 | M | 8 | M
+Thomas | Aagren | Pusher  | 1996 | M | 23 | M
+John | Aagten | Green Sails  | 2000 | TV |  | M
+ | Aakash | Anandam  | 2001 | M |  | M
+ | Aakash | Kangalal Kaidhu Sei  | 2004 | M |  | M
+ | Aakash | Onnam Ragam  | 2003 | M |  | M
+Dee | Aaker | Her Twelve Men  | 1954 | M |  | M
+Dee | Aaker | Ride Clear of Diablo  | 1954 | M |  | M
+Dee | Aaker | Spin and Marty: The Movie  | 1955 | M | 13 | M
+Lee | Aaker | Arena  | 1953 | M | 7 | M
+Lee | Aaker | Atomic City, The  | 1952 | M | 5 | M
+Lee | Aaker | Bigger Than Life  | 1956 | M |  | M
+Lee | Aaker | Black Tuesday  | 1954 | M |  | M
+Lee | Aaker | Bye Bye Birdie  | 1963 | M |  | M
+Lee | Aaker | Challenge of Rin Tin Tin, The  | 1957 | M |  | M
+Lee | Aaker | Desperate Search  | 1952 | M | 6 | M
+Lee | Aaker | Destry  | 1954 | M | 13 | M
+Lee | Aaker | Greatest Show on Earth, The  | 1952 | M |  | M
+Lee | Aaker | Hans Christian Andersen  | 1952 | M |  | M
+Lee | Aaker | High Noon  | 1952 | M |  | M
+Lee | Aaker | Hondo  | 1953 | M | 9 | M
+Lee | Aaker | Jeopardy  | 1953 | M | 4 | M
+Lee | Aaker | Lion Is in the Streets, A  | 1953 | M |  | M
+Lee | Aaker | Mister Scoutmaster  | 1953 | M | 11 | M
+Lee | Aaker | Moochie of the Little League  | 1959 | TV | 9 | M
+Lee | Aaker | Mooncussers, The  | 1962 | TV |  | M
+Lee | Aaker | My Son John  | 1952 | M |  | M
+Lee | Aaker | No Room for the Groom  | 1952 | M | 8 | M
+Lee | Aaker | O. Henry's Full House  | 1952 | M | 14 | M
+Lee | Aaker | Raid, The  | 1954 | M |  | M
+Lee | Aaker | Ricochet Romance  | 1954 | M | 10 | M
+Lee | Aaker | Something to Live For  | 1952 | M |  | M
+Lee | Aaker | Take Me to Town  | 1953 | M | 5 | M
+Lee | Aaker | "Adventures of Rin Tin Tin, The"  | 1954 | M | 1 | M
+Kim Fupz | Aakeson | Bodilprisen 2003  | 2003 | TV |  | M
+Kim Fupz | Aakeson | Pigerne bag 'Forbrydelser'  | 2004 | TV |  | M
+Kim Fupz | Aakeson | Se til venstre, der er en Svensker  | 2003 | M |  | M
+Steve | Aalam | 30:e november  | 1995 | M | 9 | M
+Steve | Aalam | 9 millimeter  | 1997 | a | 3 | M
+Steve | Aalam | Dödsdoktorn  | 2002 | a | 1 | M
+Steve | Aalam | It's All About Love  | 2003 | a |  | M
+Steve | Aalam | Mellan himmel och hästben  | 2001 | M | 6 | M
+Steve | Aalam | Rånarna  | 2004 | M | 7 | M
+ | Aalami | Romancero marroquí  | 1939 | M |  | M
+Freddy | Aalbeck | Hans Brinker  | 1969 | TV |  | M
+George | Aalbregise | Lovers, Liars and Thieves  | 1997 | M | 35 | M
+Niels | Aalbæk Jensen | Pink Prison  | 1999 | V | 10 | M
+Karsten | Aalholm | Musik&Fis  | 1994 | V |  | M
+Preben | Aalholt | Carlo & Ester  | 1994 | M | 11 | M
+ | Aalija | Shaheed  | 1965 | M | 37 | M
+Henri | Aalto | Papukaijamies  | 1992 | M |  | M
+Jussi | Aalto | Jäniksen vuosi  | 1977 | M |  | M
+Keijo | Aalto | Lunastus  | 1997 | M | 17 | M
+Petri | Aalto | Kiljusen herrasväen uudet seikkailut  | 1990 | M | 67 | M
+Petri | Aalto | Lahja  | 1997 | TV | 18 | M
+Petri | Aalto | Loma  | 1976 | M |  | M
+Petri | Aalto | Ursula  | 1986 | M |  | M
+Rostislav | Aalto | Rundi  | 1990 | M |  | M
+Teemu | Aalto | Kaljupää 2 - Mutta Missä On Mr.Fuck  | 1997 | V | 1 | M
+Tero | Aalto | Klassikko  | 2001 | M | 41 | M
+Pauli | Aalto-Setälä | "Hyvät, pahat ja rumat"  | 1992 | M |  | M
+Pauli | Aalto-Setälä | "Kymmenen uutiset"  | 1981 | M |  | M
+Pauli | Aalto-Setälä | "Vaarallinen risteys"  | 2003 | M |  | M
+Heikki | Aaltoila | Kirkastuva sävel  | 1946 | M | 9 | M
+Heikki | Aaltoila | Ristikon varjossa  | 1945 | M |  | M
+Heikki | Aaltoila | Skandaali tyttökoulussa  | 1960 | M | 31 | M
+Alpo | Aaltokoski | Vertebra  | 2003 | M | 1 | M
+Jouko | Aaltonen | Aurinkotuuli  | 1980 | M | 12 | M
+Juha | Aaltonen | Klassikko  | 2001 | M | 42 | M
+Jukka | Aaltonen | Kiljusen herrasväen uudet seikkailut  | 1990 | M | 11 | M
+Jukka | Aaltonen | Terveisiä PC:stä  | 2000 | TV | 4 | M
+Kosti | Aaltonen | Aktivistit  | 1939 | M |  | M
+Kosti | Aaltonen | Hätävara  | 1939 | M |  | M
+Kosti | Aaltonen | Jumalan myrsky  | 1940 | M |  | M
+Kosti | Aaltonen | Loviisa, Niskavuoren nuori emäntä  | 1946 | M | 25 | M
+Kosti | Aaltonen | Niskavuoren naiset  | 1938 | M | 15 | M
+Kosti | Aaltonen | Rosvo Roope  | 1949 | M | 23 | M
+Kosti | Aaltonen | Sellaisena kuin sinä minut halusit  | 1944 | M |  | M
+Kosti | Aaltonen | Soita minulle, Helena!  | 1948 | M | 7 | M
+Kosti | Aaltonen | Suurin voitto  | 1944 | M |  | M
+Kosti | Aaltonen | Sysmäläinen  | 1938 | M |  | M
+Kosti | Aaltonen | Tuhottu nuoruus  | 1947 | M | 20 | M
+Kosti | Aaltonen | Tuomari Martta  | 1943 | M |  | M
+Kosti | Aaltonen | Tähtireportterit tulevat  | 1945 | M | 17 | M
+Kosti | Aaltonen | Varaventtiili  | 1942 | M | 19 | M
+Kosti | Aaltonen | Vihreä kulta  | 1938 | M | 5 | M
+Leif | Aaltonen | Pikku Pietarin piha  | 1961 | M |  | M
+Markus | Aaltonen | Ameriikan raitti  | 1990 | M |  | M
+Mongo | Aaltonen | Estradilla: Eino Grön 65  | 2004 | TV | 47 | M
+Mongo | Aaltonen | Estradilla: Mamba  | 2004 | TV | 6 | M
+Remu | Aaltonen | Esa ja Vesa - auringonlaskun ratsastajat  | 1994 | M | 12 | M
+Remu | Aaltonen | Kuumat kundit  | 1976 | M | 1 | M
+Remu | Aaltonen | Käpy selän alla  | 1966 | M |  | M
+Remu | Aaltonen | Real McCoy, The  | 1999 | M | 6 | M
+Remu | Aaltonen | Tango Kabaree  | 2001 | M |  | M
+Remu | Aaltonen | "Missä olet Peter Aava?"  | 2002 | mini |  | M
+Risto | Aaltonen | Bis später, ich muss mich erschiessen  | 1984 | M |  | M
+Risto | Aaltonen | Emmauksen tiellä  | 2001 | M | 10 | M
+Risto | Aaltonen | Hei kliffaa hei!  | 1985 | M | 9 | M
+Risto | Aaltonen | Hurmaava joukkoitsemurha  | 2000 | M |  | M
+Risto | Aaltonen | Jari Tervon Poliisin poika  | 1998 | TV | 14 | M
+Risto | Aaltonen | Johtaja Uuno Turhapuro - pisnismies  | 1998 | M |  | M
+Risto | Aaltonen | Jousiampuja  | 1982 | M |  | M
+Risto | Aaltonen | Jäähyväiset presidentille  | 1987 | M |  | M
+Risto | Aaltonen | Kaikki pelissä  | 1994 | M | 16 | M
+Risto | Aaltonen | Kiljusen herrasväki  | 1981 | M | 15 | M
+Risto | Aaltonen | Leikkikalugangsteri  | 1969 | M | 4 | M
+Risto | Aaltonen | Näköradiomiehen ihmeelliset siekailut  | 1969 | M |  | M
+Risto | Aaltonen | Rikos ja rangaistus  | 1983 | M |  | M
+Risto | Aaltonen | Ruskan jälkeen  | 1979 | M | 9 | M
+Risto | Aaltonen | Siivoton juttu  | 1997 | TV |  | M
+Risto | Aaltonen | Tupla-Uuno  | 1988 | M |  | M
+Risto | Aaltonen | Uuno Turhapuro menettää muistinsa  | 1982 | M | 10 | M
+Risto | Aaltonen | Uuno Turhapuron veli  | 1994 | M | 20 | M
+Risto | Aaltonen | Vaarallista vapautta  | 1962 | M | 3 | M
+Risto | Aaltonen | Vihreä leski  | 1968 | M | 2 | M
+Risto | Aaltonen | Vääpeli Körmy - Taisteluni  | 1994 | M |  | M
+Risto | Aaltonen | "Pelkovaara"  | 2004 | mini |  | M
+Risto | Aaltonen | "Raid"  | 2000 | mini | 15 | M
+Veikko | Aaltonen | Arvottomat  | 1982 | M |  | M
+Veikko | Aaltonen | Kiljusen herrasväen uudet seikkailut  | 1990 | M | 58 | M
+Vesa | Aaltonen | Kiljusen herrasväen uudet seikkailut  | 1990 | M | 71 | M
+Yrjö | Aaltonen | Aktivistit  | 1939 | M |  | M
+Yrjö | Aaltonen | Miriam  | 1957 | M |  | M
+Stacy | Aam | Nether World  | 1997 | M |  | M
+John | Aamdahl | Støv på hjernen  | 1959 | M |  | M
+Willie | Aames | Battle of the Network Stars IX  | 1980 | TV | 4 | M
+Willie | Aames | Battle of the Network Stars VII  | 1979 | TV | 3 | M
+Willie | Aames | Child Stars: Then and Now  | 2003 | TV |  | M
+Willie | Aames | Circus of the Stars #10  | 1985 | TV |  | M
+Willie | Aames | Circus of the Stars #14  | 1989 | TV |  | M
+Willie | Aames | Dickie Roberts: Former Child Star  | 2003 | M | 64 | M
+Willie | Aames | Eight Is Enough Wedding, An  | 1989 | TV |  | M
+Willie | Aames | Eight Is Enough: A Family Reunion  | 1987 | TV |  | M
+Willie | Aames | Eight Is Enough: The E! True Hollywood Story  | 2000 | TV |  | M
+Willie | Aames | Family Nobody Wanted, The  | 1975 | TV | 9 | M
+Willie | Aames | Frankenstein  | 1973 | TV | 12 | M
+Willie | Aames | Inferno in diretta  | 1985 | M | 3 | M
+Willie | Aames | Máquina de matar, La  | 1984 | M | 5 | M
+Willie | Aames | Paradise  | 1982 | M | 1 | M
+Willie | Aames | Pssst! Hammerman's After You!  | 1974 | TV | 14 | M
+Willie | Aames | Runaway on Rogue River  | 1974 | TV |  | M
+Willie | Aames | Scavenger Hunt  | 1979 | M | 12 | M
+Willie | Aames | Tom Swift and Linda Craig Mystery Hour, The  | 1983 | TV | 1 | M
+Willie | Aames | Unwed Father  | 1974 | TV | 6 | M
+Willie | Aames | Zapped!  | 1982 | M | 2 | M
+Willie | Aames | "Benjamin Franklin"  | 1974 | mini |  | M
+Willie | Aames | "Bible Man"  | 1999 | M | 1 | M
+Willie | Aames | "Charles in Charge"  | 1984 | M | 2 | M
+Willie | Aames | "Dungeons & Dragons"  | 1983/I | voice | 1 | M
+Willie | Aames | "Edge of Night, The"  | 1956 | M | 11 | M
+Willie | Aames | "Eight Is Enough"  | 1977 | M | 10 | M
+Willie | Aames | "Family"  | 1976/III | M |  | M
+Willie | Aames | "Rich Man, Poor Man - Book II"  | 1976 | M |  | M
+Willie | Aames | "Swiss Family Robinson"  | 1975 | M | 3 | M
+Willie | Aames | "We'll Get By"  | 1975 | M | 4 | M
+Kjetil André | Aamodt | OL Salt Lake City 2002  | 2002 | TV |  | M
+Kristian | Aamodt | Kristine Valdresdatter  | 1930 | M | 15 | M
+Thor Michael | Aamodt | Absolutt blåmandag  | 1999 | M | 16 | M
+Thor Michael | Aamodt | Insomnia  | 1997 | M | 6 | M
+Thor Michael | Aamodt | Olsenbanden Junior på rocker'n  | 2004 | M |  | M
+Thor Michael | Aamodt | "Hotel Cæsar"  | 1998 | M |  | M
+Thor Michael | Aamodt | "Sejer - Elskede Poona"  | 2003 | M | 18 | M
+Thor Michael | Aamodt | "Venner og fiender"  | 1998 | a |  | M
+Doug | Aamoth | You Get Five Minutes  | 2004 | M | 2 | M
+Mohammed | Aamoun | Nécrophile, Le  | 2004 | M | 3 | M
+Asger | Aamund | Hjælp krigens ofre  | 2003 | TV |  | M
+Dai Sai | Aan | Four Invincibles, The  | 1979 | M | 4 | M
+Dai Sai | Aan | Goose Boxer  | 1978 | M |  | M
+Dai Sai | Aan | Wu ming xiao cu  | 1980 | M |  | M
+Peter | Aanensen | Alvin Purple  | 1973 | M | 13 | M
+Peter | Aanensen | Bad Eggs  | 2003 | M | 42 | M
+Peter | Aanensen | Cactus  | 1986 | M | 7 | M
+Peter | Aanensen | Crackerjack  | 2002 | M | 11 | M
+Peter | Aanensen | Craic, The  | 1999 | M | 24 | M
+Peter | Aanensen | Cry in the Dark, A  | 1988 | M | 34 | M
+Peter | Aanensen | Duet for Four  | 1982 | M |  | M
+Peter | Aanensen | Dusty  | 1983/I | M | 11 | M
+Peter | Aanensen | Grendel Grendel Grendel  | 1981 | voice |  | M
+Peter | Aanensen | High Country  | 1984 | M |  | M
+Peter | Aanensen | Road to Nhill  | 1997 | M | 16 | M
+Peter | Aanensen | Rose Against the Odds  | 1995 | TV | 28 | M
+Peter | Aanensen | Seagulls Over Sorrento  | 1960 | TV | 2 | M
+Peter | Aanensen | Shame  | 1987 | M | 5 | M
+Peter | Aanensen | Whose Baby  | 1986 | TV | 8 | M
+Peter | Aanensen | "And the Big Men Fly"  | 1974 | M | 8 | M
+Peter | Aanensen | "Bellbird"  | 1967 | M | 7 | M
+Peter | Aanensen | "Bluey"  | 1976 | M |  | M
+Peter | Aanensen | "Box, The"  | 1974 | M |  | M
+Peter | Aanensen | "Catspaw"  | 1978 | M | 10 | M
+Peter | Aanensen | "Marion"  | 1974 | M |  | M
+Peter | Aanensen | "Power Without Glory"  | 1976 | mini | 32 | M
+Peter | Aanensen | "Sons and Daughters"  | 1982 | M |  | M
+Peter | Aanensen | "Women of the Sun"  | 1981 | mini | 82 | M
+Adolf | Aanesen | Vor tids helte  | 1918 | M | 10 | M
+Lehtinen | Aape | Siivoton juttu  | 1997 | TV |  | M
+ | Aapeli | Pikku Pietarin piha  | 1961 | voice |  | M
+Jim | Aar | Being There  | 1979 | M | 30 | M
+Abraxas | Aaran | Patton  | 1970 | M | 30 | M
+Steve | Aaran | Old Enough  | 1984 | a | 27 | M
+Steve | Aaran | Slapstick (Of Another Kind)  | 1982 | M |  | M
+Satyanarayana | Aarani | Devadasu  | 1953 | M | 7 | M
+Satyanarayana | Aarani | Laila Majnu  | 1949/I | M | 9 | M
+Satyanarayana | Aarani | Ramadasu  | 1933 | M | 2 | M
+Satyanarayana | Aarani | Ratnamala  | 1947 | M | 6 | M
+Efisio | Aarbus | Haie an Bord  | 1971 | M | 8 | M
+Frank J. | Aard | Horror Story  | 1997 | a | 5 | M
+Frank J. | Aard | Immortal  | 1995 | M |  | M
+Frank J. | Aard | Radioland Murders  | 1994 | M | 34 | M
+Ott | Aardam | Nimed marmortahvlil  | 2002 | M | 5 | M
+Raymond | Aarden | Flodder  | 1986 | M | 66 | M
+Fritz | Aardvark Bragpuss | Cruise of the Gods  | 2002 | TV | 46 | M
+Bruce | Aarestad | Chasing Indigo  | 2000 | M |  | M
+Carsten | Aarestrup | Sårede filoktet, Den  | 1974 | TV |  | M
+Lasse | Aarestrup | Grev Axel  | 2001 | M | 27 | M
+Mick | Aarestrupp | Malevolence  | 1995 | M | 43 | M
+Juha | Aarikka | Riot On!  | 2004 | M |  | M
+Jeffrey | Aarles | Six-Pack  | 2000 | M | 24 | M
+Jeffrey | Aarles | Stardom  | 2000 | M |  | M
+Jeffrey | Aarles | Terminal Justice  | 1995 | M | 31 | M
+Annu | Aarnela | Juokse kuin varas  | 1964 | M |  | M
+Aatto | Aarnio | "Rauta-aika"  | 1982 | mini |  | M
+Douglas | Aarniokoski | Austin Powers: International Man of Mystery  | 1997 | voice |  | M
+Douglas | Aarniokoski | Faculty, The  | 1998 | a | 33 | M
+Douglas | Aarniokoski | Full Tilt Boogie  | 1997 | M |  | M
+Douglas | Aarniokoski | Highlander: Endgame  | 2000 | M | 11 | M
+ | Aaron (I) | Drive by: A Love Story  | 1997 | M | 26 | M
+ | Aaron (I) | "Tough Enough"  | 2001 | M | 11 | M
+Aash | Aaron | Stepsister From Planet Weird  | 2000 | TV | 8 | M
+Armando | Aaron | Shoah  | 1985 | M | 26 | M
+Bob (I) | Aaron | Big Deal  | 1985 | M | 20 | M
+Bob (I) | Aaron | Pink Chiquitas, The  | 1987 | M | 20 | M
+Bob (I) | Aaron | Raging Bull  | 1980 | M | 86 | M
+Bob (I) | Aaron | Stanley & Iris  | 1990 | M | 21 | M
+Brian | Aaron | Last Winter, The  | 1984 | M | 7 | M
+Chad | Aaron | Boys of Sunset Ridge, The  | 2001 | M |  | M
+Chad | Aaron | Yards, The  | 2000 | M | 14 | M
+Charles | Aaron | Do You Love Me  | 1946 | M | 17 | M
+Chuck | Aaron | Third Society, The  | 2002 | M |  | M
+David (III) | Aaron | Two Minutes  | 1998 | M |  | M
+David S. | Aaron | Kids Don't Tell  | 1985 | TV | 11 | M
+Eddie | Aaron | Convention of the Century  | 1934 | M | 51 | M
+Eric | Aaron | Chorus Line, A  | 1985 | M |  | M
+Frank | Aaron | Ruby Bridges  | 1998 | TV |  | M
+Frank | Aaron | Safe Side, The  | 2004 | V | 15 | M
+Hank | Aaron | 100 Years of the World Series  | 2003 | V |  | M
+Hank | Aaron | 1999 MLB All-Star Game  | 1999 | TV |  | M
+Hank | Aaron | 2002 MLB All-Star Game  | 2002 | TV |  | M
+Hank | Aaron | 2004 World Series  | 2004 | TV |  | M
+Hank | Aaron | Hank Aaron: Chasing the Dream  | 1995 | archiv |  | M
+Hank | Aaron | Incredible Ida Early, The  | 1987 | TV |  | M
+Hank | Aaron | Jim Brown All American  | 2002 | M | 23 | M
+Hank | Aaron | Pete Rose on Trial  | 2003 | TV | 12 | M
+Hank | Aaron | Summer Catch  | 2001 | M | 24 | M
+Hank | Aaron | When It Was a Game 2  | 1992 | TV |  | M
+Hank | Aaron | When It Was a Game 3  | 2000 | TV |  | M
+Hank | Aaron | "Baseball"  | 1994 | mini |  | M
+Hank | Aaron | "Greats of the Game"  | 1985 | M |  | M
+Hank | Aaron | "Remarkable Journey, The"  | 2000 | M |  | M
+Henry | Aaron | "Greats of the Game"  | 1985 | M |  | M
+Jack | Aaron | C.O.D.  | 1981 | M | 31 | M
+Jack | Aaron | Fat Angels  | 1980 | M |  | M
+Jack | Aaron | Journey of the Fifth Horse, The  | 1966 | TV |  | M
+Jack | Aaron | Made for Each Other  | 1971 | M | 43 | M
+Jack | Aaron | Mortadella, La  | 1971 | M |  | M
+Jack | Aaron | Spook Who Sat by the Door, The  | 1973 | M |  | M
+James (I) | Aaron | Tender Mercies  | 1983 | M | 15 | M
+James (II) | Aaron | Game Day  | 2000 | M | 8 | M
+James (II) | Aaron | Glory Road  | 2005 | M |  | M
+James (II) | Aaron | Night in Compton, A  | 2004 | M | 2 | M
+James (II) | Aaron | Tournament of Dreams  | 2005 | M | 14 | M
+Jeff | Aaron | Hysterical Blindness  | 2002 | TV | 9 | M
+Jeff | Aaron | Two Weeks Notice  | 2002 | M |  | M
+Jeff | Aaron | "Angels in America"  | 2003 | mini |  | M
+Joe (II) | Aaron | Crazy Jones  | 2002 | M | 1 | M
+John (I) | Aaron | Apollo 13: To the Edge and Back  | 1994 | TV |  | M
+John (I) | Aaron | Lost Moon: The Triumph of Apollo 13  | 1996 | V |  | M
+John (I) | Aaron | "Century, The"  | 1999 | mini |  | M
+Levy | Aaron | Guide  | 1965/I | M | 17 | M
+Luke | Aaron | Jim il primo  | 1964 | M |  | M
+Mark (II) | Aaron | Phoenix  | 2003 | M | 3 | M
+Nicholas | Aaron | Don't Look Back!  | 2003 | M | 17 | M
+Nicholas | Aaron | Initiation of Samuel Caine, The  | 2002 | M |  | M
+Nicholas | Aaron | Lemmings  | 2001 | M |  | M
+Nicholas | Aaron | Making of 'Touching the Void', The  | 2003 | TV |  | M
+Nicholas | Aaron | Touching the Void  | 2003 | M |  | M
+Nicholas | Aaron | Unstoppable  | 2004 | M | 9 | M
+Nicholas | Aaron | "Band of Brothers"  | 2001 | mini | 26 | M
+Nicholas | Aaron | "First Degree"  | 2002/I | M | 4 | M
+Piet | Aaron | Tatort - Einmal täglich  | 2000 | TV |  | M
+Rabbi Jonathan | Aaron | Winchell  | 1998 | TV | 15 | M
+Richard (II) | Aaron | Paul, Lisa and Caroline  | 1977 | M |  | M
+Robert | Aaron | Image, The  | 1990 | TV | 16 | M
+Sam (I) | Aaron | Assistant, The  | 1997 | M | 7 | M
+Sam (I) | Aaron | Cutting Edge, The  | 1992 | M | 29 | M
+Sam (I) | Aaron | Drop Dead Gorgeous  | 1991 | TV | 21 | M
+Sam (I) | Aaron | Mama's Going to Buy You a Mockingbird  | 1987 | TV |  | M
+Sam (I) | Aaron | Simon Birch  | 1998 | M | 36 | M
+Sam (II) | Aaron | Checking Out  | 2004 | M |  | M
+Sam (II) | Aaron | Last Writes  | 2001 | M |  | M
+Sam (II) | Aaron | Vampire Hunters Club, The  | 2001 | V | 8 | M
+Shane | Aaron | 18 Fingers of Death!  | 2004 | M |  | M
+Terry | Aaron | Distant Shadow  | 1999 | M | 9 | M
+Terry | Aaron | Sanitarium  | 2001 | V | 3 | M
+Victor | Aaron | Bulletproof  | 1996 | M | 28 | M
+Victor | Aaron | Crazy Horse  | 1996 | TV |  | M
+Victor | Aaron | Geronimo: An American Legend  | 1993 | M | 10 | M
+Victor | Aaron | Perry Mason Mystery: The Case of the Grimacing Governor, A  | 1994 | TV | 29 | M
+Victor | Aaron | Silent Fury  | 1994 | M |  | M
+Victor | Aaron | Sunchaser, The  | 1996 | M | 8 | M
+Victor | Aaron | "Dead Man's Walk"  | 1996 | mini |  | M
+Ben | Aaronovitch | Doctor Who: Thirty Years in the Tardis  | 1993 | TV |  | M
+David | Aaronovitch | 100 Greatest TV Moments, The  | 1999 | TV |  | M
+David | Aaronovitch | 40 Years of University Challenge  | 2002 | TV | 7 | M
+David | Aaronovitch | Celebrity Naked Ambition  | 2003 | TV |  | M
+David | Aaronovitch | Very Best of Have I Got News for You, The  | 2002 | V |  | M
+David | Aaronovitch | Why I Hate the 60s: The Decade That Was Too Good to Be True  | 2004 | TV |  | M
+David | Aaronovitch | "On Air: The Truth About TV"  | 1998 | mini |  | M
+Owen | Aaronovitch | Prime Suspect  | 1991 | TV | 34 | M
+Owen | Aaronovitch | "Coronation Street"  | 1960 | M |  | M
+Owen | Aaronovitch | "Reckless"  | 1997 | mini | 17 | M
+Aaron | Aarons | Face Down  | 1997 | TV | 32 | M
+Allan | Aarons | Adventures in Babysitting  | 1987 | M | 14 | M
+Allan | Aarons | Edison: The Wizard of Light  | 1998 | TV | 10 | M
+Allan | Aarons | Execution of Raymond Graham, The  | 1985 | TV | 21 | M
+Allan | Aarons | In Defense of a Married Man  | 1990 | TV | 23 | M
+Allan | Aarons | Kidnapping of Baby John Doe, The  | 1987 | TV |  | M
+Allan | Aarons | Murder Times Seven  | 1990 | TV | 23 | M
+Allan | Aarons | Park Is Mine, The  | 1986 | TV | 23 | M
+Allan | Aarons | Physical Evidence  | 1989 | M | 45 | M
+Allan | Aarons | Seeds of Doubt  | 1996 | M |  | M
+Allan | Aarons | Utilities  | 1981 | M | 48 | M
+David | Aarons | Stuck On You!  | 1984 | M | 85 | M
+Leroy | Aarons | All the President's Men  | 1976 | M | 46 | M
+Alan | Aaronson | Underworld U.S.A.  | 1961 | M |  | M
+Scott | Aaronson | Flossin  | 2001 | M |  | M
+Scott | Aaronson | Teddy Bears' Picnic  | 2002 | M |  | M
+Tapio | Aarre-Ahtio | Missä on suuri pohjoinen  | 1991 | TV | 3 | M
+Tapio | Aarre-Ahtio | Mommilan veriteot 1917  | 1973 | M | 5 | M
+Tapio | Aarre-Ahtio | Ystävät, toverit  | 1990 | M |  | M
+Bob | Aarrons | Martin's Day  | 1984 | M |  | M
+Bob | Aarrons | Suicide Murders, The  | 1985 | TV | 22 | M
+Reidar | Aarsand | For dagene er onde  | 1991 | M | 18 | M
+Josef | Aarskov | "Nissebanden"  | 1984 | M |  | M
+Erik | Aarsland | "Fortuna"  | 1993 | mini |  | M
+Daniel | Aarsman | Hellboy  | 2004 | M | 20 | M
+Turid | Aarstad | Watched!  | 1974 | M |  | M
+Karl Johan | Aarsæther | Shetlandsgjengen  | 1954 | M | 10 | M
+Uuno | Aarto | Koskenlaskijan morsian  | 1923 | M | 12 | M
+Jack | Aarts | Phoenix mysterie, Het  | 1990 | M | 26 | M
+Raf | Aarts | "Editie"  | 1995 | M |  | M
+Sjors | Aarts | Volle maan  | 2002 | M |  | M
+Heikki | Aarva | Teerenpeliä  | 1963 | M | 4 | M
+Heikki | Aarva | "Joulukalenteri"  | 1963 | voice |  | M
+Sami | Aarva | Ajolähtö  | 1982 | M |  | M
+Einar Kvarving | Aarvig | "Sone 2"  | 2000 | M |  | M
+Arne | Aas | 3  | 1971 | M | 6 | M
+Arne | Aas | Alle tiders kupp  | 1964 | M | 13 | M
+Arne | Aas | Bare et liv - historien om Fridtjof Nansen  | 1968 | M | 8 | M
+Arne | Aas | Bobbys krig  | 1974 | M |  | M
+Arne | Aas | Exit  | 1970 | M |  | M
+Arne | Aas | Himmel og helvete  | 1969 | M | 9 | M
+Arne | Aas | Kanarifuglen  | 1973 | M | 5 | M
+Arne | Aas | Kjemp for alt hva du har kjært  | 1970 | TV | 2 | M
+Arne | Aas | Kronprinsen  | 1979 | M |  | M
+Arne | Aas | Lille Eyolf  | 1968 | TV |  | M
+Arne | Aas | Lykkelige valg, Det  | 1968 | TV |  | M
+Arne | Aas | Min Marion  | 1975 | M |  | M
+Arne | Aas | Musikanter  | 1967 | M | 5 | M
+Arne | Aas | Olsenbanden + Data Harry sprenger verdensbanken  | 1978 | M | 10 | M
+Arne | Aas | Olsenbanden og Dynamitt-Harry mot nye høyder  | 1979 | M | 9 | M
+Arne | Aas | Operasjon popcorn  | 1998 | TV |  | M
+Arne | Aas | Oss  | 1976 | M |  | M
+Arne | Aas | Pappa tar gull  | 1964 | M | 12 | M
+Arne | Aas | Rallarblod  | 1979 | M |  | M
+Arne | Aas | Skulle det dukke opp flere lik er det bare å ringe  | 1970 | M | 5 | M
+Arne | Aas | Smuglere  | 1968 | M | 3 | M
+Arne | Aas | To på topp  | 1965 | M | 12 | M
+Arne | Aas | Under en steinhimmel  | 1974 | M |  | M
+Arne | Aas | Vaktpostene  | 1965 | M | 2 | M
+Arne | Aas | "Dødelig kjemi"  | 1992 | mini |  | M
+Arne | Aas | "Morsarvet"  | 1993 | mini |  | M
+Arne | Aas | "Skipper Worse"  | 1968 | mini |  | M
+Ask | Aas | Ringens disipler  | 2004 | M |  | M
+Gunnar | Aas | Bjurra  | 1970 | M |  | M
+Gunnar | Aas | Kalte ham Skarven, De  | 1965 | M | 11 | M
+Harald | Aas | "Nissene på låven"  | 2001 | mini |  | M
+Knut | Aas | 22  | 2000 | V | 24 | M
+Nils | Aas | Motforestilling  | 1972 | M | 22 | M
+Svein Roar | Aas | "Muldvarpen"  | 2000 | M |  | M
+Geir | Aase | Halveis til Haugesund  | 1997 | M |  | M
+Henrik | Aase | "71° nord"  | 1999 | M |  | M
+Henrik | Aasekjær | Sankt Hans fest  | 1947 | M | 31 | M
+Craig | Aasen | Street Gun  | 1996 | M | 67 | M
+John | Aasen | Bengal Tiger  | 1936 | M |  | M
+John | Aasen | Charlie Chan at the Circus  | 1936 | M |  | M
+John | Aasen | Growing Pains  | 1928 | M |  | M
+John | Aasen | Harold Lloyd: The Third Genius  | 1989 | TV |  | M
+John | Aasen | Legionnaires in Paris  | 1927 | M | 5 | M
+John | Aasen | Long Fliv the King  | 1926 | M |  | M
+John | Aasen | Should Married Men Go Home?  | 1928 | M |  | M
+John | Aasen | Sting of Stings, The  | 1927 | M | 8 | M
+John | Aasen | Two Flaming Youths  | 1927 | M |  | M
+John | Aasen | Why Worry?  | 1923 | a | 3 | M
+Larry | Aasen | Powerplay  | 1999 | TV | 20 | M
+Larry | Aasen | Sasquatch Hunters  | 1997 | M | 17 | M
+Jay | Aaseng | Cabin Fever  | 2002 | M | 41 | M
+Ivar | Aaserud | Krypskyttere  | 1982 | M |  | M
+Per Morten | Aaserud | "Robinsonekspedisjonen"  | 1999 | M |  | M
+Aaron | Aash | Swimming Upstream  | 2003 | M |  | M
+Erik | Aasheim | Drømmeslottet  | 1986 | M |  | M
+Erik | Aasheim | "Nyhetsblikk"  | 2001 | M |  | M
+Erik | Aasheim | "Stereo"  | 2002 | M | 1 | M
+Paal Tarjei | Aasheim | "Casanova"  | 1993/I | M | 1 | M
+C.S. | Aasie | Dostana  | 1980 | M | 29 | M
+C.S. | Aasie | Janbaaz  | 1986 | M | 22 | M
+G.S. | Aasie | Kenner  | 1969 | M |  | M
+ | Aasif | Rama O Rama  | 1988 | M |  | M
+Derek | Aasland | Bleacher Bums  | 2002 | TV |  | M
+Derek | Aasland | Frequency  | 2000 | M | 35 | M
+Derek | Aasland | Game Over: 'Resident Evil' Reanimated  | 2004 | V |  | M
+Derek | Aasland | Hendrix  | 2000 | TV | 28 | M
+Derek | Aasland | Kids in the Hall: Brain Candy  | 1996 | M |  | M
+Derek | Aasland | Rated X  | 2000 | M | 21 | M
+Derek | Aasland | Resident Evil: Apocalypse  | 2004 | M | 40 | M
+Derek | Aasland | Skulls, The  | 2000 | M | 13 | M
+Derek | Aasland | Two of Us  | 2000 | TV | 12 | M
+Derek | Aasland | Urban Legends: Final Cut  | 2000 | M | 13 | M
+Derek | Aasland | "Summer Storm"  | 1988 | mini |  | M
+Freddy | Aastrøm | Motorskibet Fiona  | 1987 | TV |  | M
+Jamel | Aattache | Kung fu klompen  | 2004 | V | 1 | M
+Sebastian | Aav | Demoniac  | 2004 | V | 7 | M
+Tõnu | Aav | Bande  | 1986 | M | 7 | M
+Tõnu | Aav | Hysteria  | 1993 | M |  | M
+Tõnu | Aav | Marianna  | 1967 | M | 3 | M
+Tõnu | Aav | Minu Leninid  | 1997 | M | 28 | M
+Tõnu | Aav | Puud olid...  | 1985 | M | 9 | M
+Tõnu | Aav | Ränk ja Kilk  | 2001 | M |  | M
+Tõnu | Aav | Surmatants  | 1992 | M |  | M
+Tõnu | Aav | Tulivesi  | 1994 | M |  | M
+Tõnu | Aav | "Osvobozhdeniye"  | 1970 | mini |  | M
+Kaarlo | Aavajoki | Dynamiittityttö  | 1944 | M | 9 | M
+Kaarlo | Aavajoki | Hiipivä vaara  | 1944 | M |  | M
+Kaarlo | Aavajoki | Kartanon naiset  | 1944 | M | 11 | M
+Kaarlo | Aavajoki | Katariina kaunis leski  | 1950 | M |  | M
+Kaarlo | Aavajoki | Kirkastettu sydän  | 1943 | M |  | M
+Kaarlo | Aavajoki | Kolmastoista koputus  | 1945 | M | 17 | M
+Kaarlo | Aavajoki | Miehen vankina  | 1944 | M | 13 | M
+Kaarlo | Aavajoki | Minä elän  | 1946 | M | 4 | M
+Kaarlo | Aavajoki | Omena putoaa  | 1952 | M |  | M
+Kaarlo | Aavajoki | Pimeänpirtin hävitys  | 1947 | M | 7 | M
+Kaarlo | Aavajoki | Sellaisena kuin sinä minut halusit  | 1944 | M |  | M
+Kaarlo | Aavajoki | Valkoisen neilikan velho  | 1945 | M | 10 | M
+Evald | Aavik | Georgica  | 1998 | M | 1 | M
+Evald | Aavik | Jõulud Vigalas  | 1981 | M | 1 | M
+Evald | Aavik | Naerata ometi  | 1985 | M |  | M
+Evald | Aavik | Somnambuul  | 2003 | M | 2 | M
+Evald | Aavik | Tuulte pesa  | 1979 | M | 4 | M
+Mohamed | Aazzi | Pirates of Penzance, The  | 1983 | M |  | M
+Imad | Ab on Khaled | Täcknamn Coq Rouge  | 1989 | M |  | M
+Dilek | Aba | Eurovision sarki yarismasi  | 2002 | TV |  | M
+Dilek | Aba | Eurovision Song Contest, The  | 2002 | TV |  | M
+Eusebio | Aba | Cristo negro  | 1963 | M |  | M
+Saleem | Abaas | Bakom jalusin  | 1984 | M | 12 | M
+Samba | Ababaka | Tripes au soleil, Les  | 1959 | M |  | M
+Diego | Abad de Santillán | Teruel ha caído  | 1937 | M |  | M
+Antonio | Abad Ojuel | ¿Crimen imposible?  | 1954 | M |  | M
+José | Abad Zuleta | Canaguaro  | 1981 | M |  | M
+Alejandro | Abad | Eurovision Song Contest, The  | 1994 | TV |  | M
+Alejandro | Abad | "Operación triunfo"  | 2001 | M |  | M
+Gabriel G. | Abad | "Sin marido"  | 1988 | M |  | M
+Jose Gil | Abad | Memorias del subdesarrollo  | 1968 | M | 8 | M
+José | Abad | Mur, Le  | 1967 | M | 13 | M
+Kike | Abad | Vida siempre es corta, La  | 1994 | M | 22 | M
+Manuel | Abad | Próxima vez que vivamos, La  | 1946 | M |  | M
+Ramiro | Abad | Garden, The  | 1995/I | M | 18 | M
+Xavi | Abad | "Columna, La"  | 2000 | M |  | M
+Ángel | Abad | Sopar, El  | 1974 | M |  | M
+Óscar | Abad | "Loba herida, La"  | 1992 | M |  | M
+Óscar | Abad | "Piel"  | 1992 | M | 22 | M
+Nabil | Abada | Viva Laldjérie  | 2004 | M |  | M
+Ignasi | Abadal | Nueve reinas  | 2000 | M | 15 | M
+Ignasi | Abadal | "Nissaga de poder"  | 1996 | M |  | M
+Josep | Abadal | No respires: El amor está en el aire  | 1999 | M | 12 | M
+José Ignacio | Abadal | Diligencia de los condenados, La  | 1970 | M |  | M
+José Ignacio | Abadal | Investigación criminal  | 1970 | M |  | M
+José Ignacio | Abadal | Rosso segno della follia, Il  | 1970 | M | 11 | M
+José Ignacio | Abadal | Saranda  | 1970 | M | 10 | M
+Christophe | Abadallah | Vie dissolue de Gérard Floque, La  | 1987 | M | 31 | M
+ | Abaddon | In a Metal Mood  | 1996 | M |  | M
+César | Abades | Se buscan fulmontis  | 1999 | M |  | M
+Reyes | Abades | Días contados  | 1994 | M | 23 | M
+Rene | Abadeza | Cacciatori del cobra d'oro, I  | 1982 | M | 5 | M
+Rene | Abadeza | Code Name: Wild Geese  | 1984 | M |  | M
+Rene | Abadeza | Double Target  | 1987 | M |  | M
+Rene | Abadeza | Fuga dall'archipelago maledetto  | 1982 | M |  | M
+Rene | Abadeza | Indio  | 1989 | M |  | M
+Rene | Abadeza | Kommando Leopard  | 1985 | M |  | M
+Rene | Abadeza | Leggenda del rubino malese, La  | 1985 | M | 7 | M
+Rene | Abadeza | Strike Commando  | 1987 | M | 9 | M
+Ebrahim | Abadi | Arousi-ye Khouban  | 1989 | M |  | M
+Lysander O. | Abadia | Indie Pendant, The  | 2005 | M | 4 | M
+Lysander O. | Abadia | Investigaytion  | 2004 | M |  | M
+Lysander O. | Abadia | Mylène Farmer: Mylenium Tour  | 2000 | V | 12 | M
+Lysander O. | Abadia | Objects of Wrath  | 2004 | V |  | M
+Oscar | Abadia | Tequila Sunrise  | 1988 | a | 30 | M
+Oscar | Abadia | Unlawful Entry  | 1992 | M | 20 | M
+ | Abadie | Brigade des moeurs  | 1959 | M | 24 | M
+A.C. | Abadie | Great Train Robbery, The  | 1903 | M |  | M
+A.C. | Abadie | What Happened on Twenty-third Street, New York City  | 1901 | M |  | M
+Brian | Abadie | Sextette  | 1978 | M | 34 | M
+Hector | Abadie | Ah verda!  | 1974 | M | 2 | M
+Jean-Claude | Abadie | Marie Tudor  | 1966 | TV | 18 | M
+Jean-Jacques | Abadie | Ressources humaines  | 1999 | M | 26 | M
+Romuald | Abadie | Moustique, Le  | 1980 | TV | 9 | M
+William | Abadie | Pink Panther, The  | 2005 | M |  | M
+William | Abadie | Unfaithful  | 2002 | M | 24 | M
+Eksander | Abadii | Komitas  | 1988 | TV | 9 | M
+Aleli | Abadilla | Case of Honor, A  | 1988 | M | 15 | M
+Aleli | Abadilla | Night Swimming  | ???? | M |  | M
+Luis | Abadié | Corazón bandolero  | 1934 | M | 18 | M
+Luis | Abadié | Serenata en México  | 1956 | M |  | M
+D. | Abadzhiev | Selskoto chudovishte  | 1939 | M | 4 | M
+D. | Abadzhiev | Shushu-mushu  | 1941 | M | 4 | M
+Dimitar | Abadzhiev | Glutnitzata  | 1972 | M | 26 | M
+Dimitar | Abadzhiev | Sasedkata  | 1988 | M | 21 | M
+Dimitar | Abadzhiev | Stublenskite lipi  | 1960 | M | 12 | M
+Lyubomir | Abadzhiev | Neshto vav vazduha  | 1993 | M | 19 | M
+Alexander | Abadzis | Gospel of John, The  | 2003 | M |  | M
+Jorge María | Abadía | Mientras arde el fuego  | 1982 | M |  | M
+Julio | Abadía | Gilda  | 1946 | M |  | M
+Julio | Abadía | Monerías  | 1931 | M | 5 | M
+Julio | Abadía | Perilous Holiday  | 1946 | M |  | M
+Julio | Abadía | Rosa de Francia  | 1936 | M |  | M
+Julio | Abadía | Su última noche  | 1931 | M | 8 | M
+Julio | Abadía | Walls Came Tumbling Down, The  | 1946 | M | 32 | M
+Frank | Abagnale Jr. | 'Catch Me If You Can': Behind the Camera  | 2003 | V |  | M
+Frank | Abagnale Jr. | Catch Me If You Can  | 2002 | a | 88 | M
+Sonny | Abagnale | Falling in Love  | 1984 | M | 15 | M
+Sonny | Abagnale | Ragtime  | 1981 | M | 55 | M
+George | Abagnalo | Women in Revolt  | 1971 | M | 12 | M
+Hervé | Abah | Chocolat  | 1988 | M | 20 | M
+Hakun Jana | Abai | Ghame Afghan  | 1986 | M | 4 | M
+Mohamed | Abaid | Autre France, L'  | 1977 | M |  | M
+Mohamed | Abaid | Oeil du maître, L'  | 1980 | a | 14 | M
+Assi | Abaiov | Ambassador, The  | 1984 | M | 17 | M
+M. | Abaishvili | Ambavi Suramis tsikhitsa  | 1984 | M |  | M
+G. | Abajanyan | Verjin kirakin  | 1986 | M |  | M
+Gali | Abajdulov | Anyuta  | 1982 | TV | 3 | M
+Gali | Abajdulov | Chapliniana  | 1987 | TV | 1 | M
+Gali | Abajdulov | Meri Poppins, do svidaniya  | 1983 | TV | 12 | M
+Gali | Abajdulov | Perikola  | 1984 | TV | 6 | M
+Gali | Abajdulov | Pervaya vstrecha - poslednyaya vstrecha  | 1987 | M | 14 | M
+Gali | Abajdulov | Piekna nieznajoma  | 1992 | M |  | M
+Gali | Abajdulov | Prezumptsiya nevinovnosti  | 1988 | M | 13 | M
+Gali | Abajdulov | Skaz pro Fedota-streltsa  | 2002 | M | 17 | M
+Gali | Abajdulov | Staroye tango  | 1979 | TV | 6 | M
+Gali | Abajdulov | Strasti po Neronu  | 1994 | M |  | M
+Gali | Abajdulov | Tanets dyavola  | 1992 | M |  | M
+Gali | Abajdulov | Vremya pechali yeshchyo ne prishlo  | 1994 | M |  | M
+Gali | Abajdulov | Ya gotov prinyat vyzov  | 1983 | M |  | M
+Gali | Abajdulov | "Dym"  | 1992 | mini | 14 | M
+Gali | Abajdulov | "Mif"  | 1986 | mini | 7 | M
+Gali | Abajdulov | "Ostrov pogibshikh korablej"  | 1987 | mini | 7 | M
+David | Abajo | Gotera, La  | 1996 | M |  | M
+Mohamed | Abajou | Just Do It  | 1997 | M |  | M
+Vladimir | Abajyan | Huso astgh  | 1978 | M | 19 | M
+Vladimir | Abajyan | Lalvari vorskane  | 1967 | M | 6 | M
+M.M. | Abakar | Bye Bye Africa  | 1999 | M | 28 | M
+Askhab | Abakarov | Priklyucheniya printsa Florizelya  | 1979 | TV | 9 | M
+Askhab | Abakarov | Uznik zamka If  | 1988 | a | 30 | M
+Suvit | Abakaz | Good Morning, Vietnam  | 1987 | M | 23 | M
+ | Abake | Afanti  | 1980 | M |  | M
+A. | Abakirov | Priyut dlya sovershennoletnikh  | 1987 | M | 14 | M
+O. | Abakumov | Chuvstvitelnyj militsioner  | 1992 | M | 27 | M
+Errol | Abalayan | "Star Circle Quest"  | 2004 | M |  | M
+Jorge | Abalo | Che, El  | 1997 | M |  | M
+Jorge | Abalo | Verso, El  | 1996 | M |  | M
+Byron | Abalos | Blood Brothers  | 1993 | M | 10 | M
+Coraje | Abalos | Bacanal  | 1999 | M | 2 | M
+Coraje | Abalos | Dracula  | 1999 | TV |  | M
+Coraje | Abalos | "90-60-90 modelos"  | 1996 | M |  | M
+Coraje | Abalos | "Hermana mayor, La"  | 1995 | M | 4 | M
+Coraje | Abalos | "Quereme"  | 1994 | M | 16 | M
+Coraje | Abalos | "R.R.D.T"  | 1997 | M | 9 | M
+Coraje | Abalos | "Son o se hacen"  | 1997 | M | 5 | M
+David Brian | Abalos | Stand and Deliver  | 1988 | M | 38 | M
+Jing | Abalos | Batman Fights Dracula  | 1967 | M |  | M
+Jing | Abalos | Cuadro de Jack  | 1968 | M |  | M
+Jing | Abalos | Deadly Jacks  | 1968 | M |  | M
+Jing | Abalos | Hornets, The  | 1968 | M |  | M
+Jing | Abalos | I Shall Return  | 1973 | M | 3 | M
+Jing | Abalos | Killer Patrol  | 1968 | M |  | M
+Jing | Abalos | Lady Untouchable  | 1968 | M |  | M
+Jing | Abalos | Quinto de Alas  | 1968 | M | 4 | M
+Jing | Abalos | Tatak: Sacramentados  | 1968 | M |  | M
+Jing | Abalos | Walang hari sa batas  | 1968 | M |  | M
+Eduard | Abalov | Chistye prudy  | 1969 | a |  | M
+Eduard | Abalov | Novye priklyucheniya neulovimykh  | 1968 | a |  | M
+Eduard | Abalov | Severnaya rapsodiya  | 1974 | M |  | M
+Eduard | Abalov | Stryapukha  | 1965 | a |  | M
+Eduard | Abalov | "12 stulyev"  | 1977 | mini |  | M
+Leopoldo | Aban | Deuda interna, La  | 1988 | M |  | M
+Odo | Abaquin | Oro, Plata, Mata  | 1983 | M | 39 | M
+Joaquín | Abarca | Corneta vengadora, La  | 1989 | M | 28 | M
+Pablo | Abarca | Muerte en Moscú  | 1994 | M | 7 | M
+Paul | Abarca | Todo un hombre  | 1983 | M | 14 | M
+Christian | Abard | Carnassiers, Les  | 1991 | TV | 18 | M
+Erwin | Abarico | Quiet American, The  | 2002 | M | 37 | M
+Rabadan | Abarkoroff | Artisty tsirka  | 1957 | M | 7 | M
+Rabadan | Abarkoroff | Na arene tsirka  | 1951 | a | 46 | M
+José María | Abarno | Salto mortal  | 1961 | M | 15 | M
+Boris | Abarov | Trip van Teetje, De  | 1998 | M |  | M
+Johnny | Abarrientos | Go Johnny Go  | 1997 | M | 1 | M
+Boleslaw | Abart | Frankenstein  | 1993 | TV | 22 | M
+Boleslaw | Abart | Klara i Angelika  | 1977 | TV |  | M
+Boleslaw | Abart | Królowa chmur  | 2004 | TV | 10 | M
+Boleslaw | Abart | Motodrama  | 1971 | M | 10 | M
+Boleslaw | Abart | Obcy musi fruwac  | 1993 | M |  | M
+Boleslaw | Abart | Potop  | 1974 | M | 46 | M
+Boleslaw | Abart | Test pilota Pirksa  | 1979 | M |  | M
+Boleslaw | Abart | Znaki na drodze  | 1971 | M | 5 | M
+Christian | Abart | Femme des autres, La  | 1990 | TV |  | M
+Christian | Abart | Noyade interdite  | 1987 | M |  | M
+Christian | Abart | "Bleu de l'océan, Le"  | 2003 | mini |  | M
+César | Abarzua | Encierro, El  | 1996 | M |  | M
+Osama | Abas | "Mahmoud Al-Masri"  | 2004 | mini | 13 | M
+Antonio | Abascal | "María Belén"  | 2001 | M | 60 | M
+Cecilio | Abascal | Mama  | 1988 | M | 3 | M
+Paul | Abascal | Die Hard 2  | 1990 | M | 55 | M
+Paul | Abascal | Predator 2  | 1990 | M | 54 | M
+Ramón | Abascal | Bonita  | 1996 | M |  | M
+Ramón | Abascal | Días de combate  | 1994 | M | 10 | M
+Ramón | Abascal | Santo Luzbel  | 1997 | M |  | M
+Ramón | Abascal | "Antorcha encendida, La"  | 1997 | M | 12 | M
+Ramón | Abascal | "Bendita Mentira"  | 1996 | M | 5 | M
+Ramón | Abascal | "Hijos de nadie, Los"  | 1996 | M | 3 | M
+Ramón | Abascal | "Luz en el camino, Una"  | 1998 | M | 4 | M
+Ramón | Abascal | "Mágica juventud"  | 1992 | M | 5 | M
+Ramón | Abascal | "Privilegio de amar, El"  | 1998 | M |  | M
+Ramón | Abascal | "Sonrisa del diablo, La"  | 1996 | M | 8 | M
+Pyotr | Abasheyev | Gor'kij mozhzhevel'nik  | 1985 | M | 1 | M
+Pyotr | Abasheyev | Zemlya Sannikova  | 1973 | M | 8 | M
+Dato | Abashidze | Au-u!  | 1975 | M | 8 | M
+Dato | Abashidze | Data tutashkhia  | 1977 | TV | 7 | M
+Dato | Abashidze | Natvris khe  | 1977 | M | 21 | M
+Dodo | Abashidze | Ambavi Suramis tsikhitsa  | 1984 | M | 4 | M
+Dodo | Abashidze | Ar daidardo  | 1969 | M | 12 | M
+Dodo | Abashidze | Ar Daijero, Rom agar var  | 1975 | M | 1 | M
+Dodo | Abashidze | Arachveulebrivi gamopena  | 1968 | M |  | M
+Dodo | Abashidze | Ashugi Qaribi  | 1988 | M | 10 | M
+Dodo | Abashidze | Bashi-Achuki  | 1956 | M | 2 | M
+Dodo | Abashidze | Burti da moedani  | 1961 | M | 4 | M
+Dodo | Abashidze | Chiakokona  | 1961 | M | 4 | M
+Dodo | Abashidze | Chrichina  | 1954 | M | 8 | M
+Dodo | Abashidze | Didi mtsvane veli  | 1967 | M | 1 | M
+Dodo | Abashidze | Didostatis Marjvena  | 1969 | M | 12 | M
+Dodo | Abashidze | Giorgobistve  | 1968 | M | 9 | M
+Dodo | Abashidze | Khevsuruli balada  | 1965 | M | 5 | M
+Dodo | Abashidze | Komandirovka  | 1961 | a | 2 | M
+Dodo | Abashidze | Kvarkvare  | 1978 | M | 1 | M
+Dodo | Abashidze | Magdanas lurja  | 1955 | M |  | M
+Dodo | Abashidze | Male gazapkhuli mova  | 1967 | M |  | M
+Dodo | Abashidze | Matsi khvitia  | 1966 | M |  | M
+Dodo | Abashidze | Me vitkvi simartles  | 1958 | M | 5 | M
+Dodo | Abashidze | Mezoblebi  | 1971 | M |  | M
+Dodo | Abashidze | Mkhiaruli romani  | 1972 | M | 8 | M
+Dodo | Abashidze | Mtsvervali  | 1976 | M | 8 | M
+Dodo | Abashidze | Ori odjakhi  | 1959 | M | 3 | M
+Dodo | Abashidze | Pesvebi  | 1987 | M | 2 | M
+Dodo | Abashidze | Pieri - militsiis tanamshromeli  | 1965 | M | 8 | M
+Dodo | Abashidze | Pirosmani  | 1969 | M |  | M
+Dodo | Abashidze | Pirveli mertskhali  | 1975 | M | 1 | M
+Dodo | Abashidze | Pokhishcheniye veka  | 1981 | M | 5 | M
+Dodo | Abashidze | Qalaqi Anara  | 1976 | M | 6 | M
+Dodo | Abashidze | Racha, chemi sikvaruli  | 1977 | M | 2 | M
+Dodo | Abashidze | Rotsa akvavda nushi  | 1972 | M | 7 | M
+Dodo | Abashidze | Sinatle chvens panjrebshi  | 1969 | M | 1 | M
+Dodo | Abashidze | Tetri karavani  | 1963 | M | 8 | M
+Dodo | Abashidze | Tserodena raindebi  | 1963 | M | 12 | M
+Dodo | Abashidze | Tsimbireli papa  | 1973 | M | 1 | M
+Dodo | Abashidze | Udiplomo sasidzo  | 1961 | M | 7 | M
+Dodo | Abashidze | Veris ubnis melodiebi  | 1973 | M | 5 | M
+Dodo | Abashidze | Zgvis mgeli  | 1973 | M | 4 | M
+Dodo | Abashidze | Zgvis shvilebi  | 1964 | M | 7 | M
+Gocha | Abashidze | Abezara  | 1957 | M |  | M
+Gocha | Abashidze | Chrdili gzaze  | 1956 | M |  | M
+Gocha | Abashidze | Chveni ezo  | 1957 | M | 5 | M
+Gocha | Abashidze | Glakhis naambobi  | 1962 | M | 1 | M
+Gocha | Abashidze | Isini chamovidnen mtidan  | 1954 | M | 4 | M
+Gocha | Abashidze | Maya Tskhneteli  | 1959 | M |  | M
+Gocha | Abashidze | Sad aris sheni bedniereba Mzia?  | 1959 | M | 3 | M
+Gocha | Abashidze | Tsiskara  | 1955 | M | 3 | M
+Levan | Abashidze | Akhalgazrda kompozitoris mogzauroba  | 1984 | M | 2 | M
+Levan | Abashidze | Anemia  | 1988 | M | 1 | M
+Levan | Abashidze | Ara, megobaro  | 1993 | M | 1 | M
+Levan | Abashidze | Bravo, Giordano Bruno  | 1993 | M | 1 | M
+Levan | Abashidze | Gost'  | 1987 | a | 2 | M
+Levan | Abashidze | Oromtriali  | 1986 | M | 10 | M
+Levan | Abashidze | Pesvebi  | 1987 | M | 5 | M
+Levan | Abashidze | Ramodenime interviu pirad sakitkhebze  | 1979 | M | 6 | M
+Levan | Abashidze | Sapekhuri  | 1986 | M | 3 | M
+Shalva | Abashidze | Satnoebis kibe  | 1997 | M | 5 | M
+Vaso | Abashidze | Arsena Jorjiashvili  | 1921 | M | 10 | M
+Vaso | Abashidze | Khanuma  | 1927 | M | 10 | M
+Vaso | Abashidze | Qristine  | 1916 | M |  | M
+Heiam | Abasi | Har, Ha-  | 1991 | M |  | M
+Alain | Abasie | Quatre Charlots mousquetaires, Les  | 1974 | M | 32 | M
+Roland T. | Abasolo | Dream with the Fishes  | 1997 | M | 32 | M
+Roland T. | Abasolo | Getting Even with Dad  | 1994 | M | 24 | M
+Roland T. | Abasolo | Happily Even After  | 2004 | M | 15 | M
+Roland T. | Abasolo | Just One Night  | 2000 | a |  | M
+Roland T. | Abasolo | True Crime  | 1999 | a | 47 | M
+Aladdin | Abasov | Nizami  | 1982 | M | 4 | M
+Aladdin | Abasov | Signal s morya  | 1987 | a | 10 | M
+Aladdin | Abasov | Staryj prichal  | 1986 | M | 3 | M
+Aladdin | Abasov | Tsentrovoj iz podnebesya  | 1975 | M |  | M
+Aladdin | Abasov | Ösge vacht  | 1996 | M |  | M
+R. | Abasov | Vzlomshchik  | 1986 | M |  | M
