@@ -2,7 +2,7 @@
 
 = Introduction =
 
-The idea is to use this dataset to compute a list of total movies each year and sort it in descending order. In addition, compute list of total movies per decade (binning) and visualize it in form of a histogram.
+The idea is to use IMDB dataset to compute a list of total movies each year and sort it in descending order. In addition, compute list of total movies per decade (binning) and visualize it in form of a histogram.
 
 This is a bit tricky because the dataset corresponds to actors and not movies. We need to factor for the fact that:
   # There will be multiple records for movie-year combination as movies generally have more than one actor.
