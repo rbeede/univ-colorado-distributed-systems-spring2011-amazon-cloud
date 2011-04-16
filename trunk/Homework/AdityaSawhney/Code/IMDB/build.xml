@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="hadoop-jar" name="imdb">
+	<property environment="env" />
+	<property name="HADOOP_HOME" value="/home/user/hadoop" />
+	<property name="classes.dir" value="target/classes" />
+	<property name="debuglevel" value="source,lines,vars" />
+	<property name="target" value="1.6" />
+	<property name="source" value="1.6" />
+	<path id="HADOOP_18_3.userclasspath">
+		<pathelement location="${HADOOP_HOME}/lib/commons-cli-2.0-SNAPSHOT.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/commons-codec-1.3.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/commons-httpclient-3.0.1.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/commons-logging-1.0.4.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/commons-logging-api-1.0.4.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/commons-net-1.4.1.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/jets3t-0.6.0.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/jetty-5.1.4.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/junit-3.8.1.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/kfs-0.1.3.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/log4j-1.2.15.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/oro-2.0.8.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/servlet-api.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/slf4j-api-1.4.3.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/slf4j-log4j12-1.4.3.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/xmlenc-0.52.jar"/>
+		        <pathelement location="${HADOOP_HOME}/hadoop-0.18.3-ant.jar"/>
+		        <pathelement location="${HADOOP_HOME}/hadoop-0.18.3-core.jar"/>
+		        <pathelement location="${HADOOP_HOME}/hadoop-0.18.3-examples.jar"/>
+		        <pathelement location="${HADOOP_HOME}/hadoop-0.18.3-test.jar"/>
+		        <pathelement location="${HADOOP_HOME}/hadoop-0.18.3-tools.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/jetty-ext/commons-el.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/jetty-ext/jasper-compiler.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/jetty-ext/jasper-runtime.jar"/>
+		        <pathelement location="${HADOOP_HOME}/lib/jetty-ext/jsp-api.jar"/>
+	</path>
+	<path id="IMDB.classpath">
+		<pathelement location="${classes.dir}" />
+		<path refid="HADOOP_18_3.userclasspath" />
+	</path>
+	<target name="init">
+		<mkdir dir="${classes.dir}" />
+		<copy includeemptydirs="false" todir="${classes.dir}">
+			<fileset dir="src" excludes="**/*.launch, **/*.java" />
+		</copy>
+		<copy includeemptydirs="false" todir="${classes.dir}/lib">
+			<fileset dir="lib" includes="**/*.jar" />
+		</copy>
+	</target>
+	<target name="clean">
+		<delete dir="target" />
+	</target>
+	<target depends="clean" name="cleanall" />
+	<target depends="init" name="build">
+		<echo message="${ant.project.name}: ${ant.file}" />
+		<javac debug="true" debuglevel="${debuglevel}" destdir="${classes.dir}" source="${source}" target="${target}">
+			<src path="src" />
+			<classpath refid="IMDB.classpath" />
+		</javac>
+	</target>
+	<target depends="build" name="hadoop-jar">
+		<jar destfile="target/imdb.jar" manifest="src/META-INF/MANIFEST.MF" basedir="${classes.dir}">
+		</jar>
+	</target>
+</project>
