@@ -8,10 +8,10 @@ This is a bit tricky because the dataset corresponds to actors and not movies. W
   # There will be multiple records for movie-year combination as movies generally have more than one actor.
   # There will be multiple records with same movie name but different year as movie names can be reused.
 
-Essentially, we need to uniquely count the movie-year combinations.
+Essentially, we need to _uniquely_ count the movie-year combinations.
 
 = Details =
-Following section introduces the dataset, details the approach and the corresponding results.
+Following section introduces the dataset, details the approach and corresponding results.
 
 ==Dataset==
 IMDB dataset [http://warsteiner.db.cs.cmu.edu/db-site/Datasets/graphData/IMDB source] of all actors in the following format:
@@ -25,3 +25,12 @@ The approach is to break it down into 3 stages (corresponds to MapReduce) tasks 
   # *Filter*: Filter out duplicate combinations of movie-year so that at the end we are left with unique combinations.
     * *Map*: Parse each line of record, skip bad records and emit <Movie, Year>
     * *Reduce*: Filter duplicate Year values for each movie and emit unique <Movie, Year>
+  # *Count*: Count the number of movies each year
+    * *Map*: For each <Movie, Year> record, emit <Year, 1> and incase of ‘histogram’ round off year to start of decade.
+    * *Reduce*: Add up all the records for each year and emit <Year, Count>.
+  # *Sort*: Sort the records by count in descending order and use single reducer to capture results in a single file.
+    * *Map*: For each <Year, Count>, emit <Count, Year> so that count is used as sorting key.
+    * *Reduce*: Use identity reducer as no change in map output is required and specify custom key comparator for output to sort in descending order.
+
+==Results==
+The results of normal and histogram (use -h option) are provided along with the source code. In terms of execution time following are the observations:
