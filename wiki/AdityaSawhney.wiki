@@ -1,0 +1,27 @@
+#summary Description of how IMDB dataset was used to compute movie frequencies.
+
+= Introduction =
+
+The idea is to use this dataset to compute a list of total movies each year and sort it in descending order. In addition, compute list of total movies per decade (binning) and visualize it in form of a histogram.
+
+This is a bit tricky because the dataset corresponds to actors and not movies. We need to factor for the fact that:
+  # There will be multiple records for movie-year combination as movies generally have more than one actor.
+  # There will be multiple records with same movie name but different year as movie names can be reused.
+
+Essentially, we need to uniquely count the movie-year combinations.
+
+= Details =
+Following section introduces the dataset, details the approach and the corresponding results.
+
+==Dataset==
+IMDB dataset [http://warsteiner.db.cs.cmu.edu/db-site/Datasets/graphData/IMDB source] of all actors in the following format:
+
+FIRSTNAME | LASTNAME | TITLE | YEAR | TYPE | POSITION | GENDER
+
+The data set is around 213MB in size and contains 3.8 million records.
+
+==Approach==
+The approach is to break it down into 3 stages (corresponds to MapReduce) tasks and chain them together. Namely,
+  # *Filter*: Filter out duplicate combinations of movie-year so that at the end we are left with unique combinations.
+    * *Map*: Parse each line of record, skip bad records and emit <Movie, Year>
+    * *Reduce*: Filter duplicate Year values for each movie and emit unique <Movie, Year>
