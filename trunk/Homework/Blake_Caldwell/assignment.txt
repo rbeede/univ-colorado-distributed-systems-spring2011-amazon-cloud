@@ -1,0 +1,38 @@
+Programming assignment CSCI 5673
+Blake Caldwell
+blake.caldwell@colorado.edu
+
+
+For my dataset, I chose the Network Path and Application Diagnosis
+tool (NPAD) snapshot (http://aws.amazon.com/datasets/3189).  It has
+collected in 2009 on various network connections.  I was primarily
+intersted in network paths that were deemed "good" by the tool and
+passed all of the tests.  I manipluated the sorting of the output
+files to have one file with all reports (html) for each day.  The
+default was one per test, but the thousands of map tasks was too much
+for the system.  My map fuction selected the domains and ip addresses
+that passed the tool's test and recorded the count.  The reduce
+funtion then summed up all of the results for a particular key.
+Essentially a (domain, ip) tuple and sorted the values.  They were
+written in python and used the streaming jar to work with hadoop.
+It was run on a cluster of 10 nodes, which took about about 2min to 
+complete. 
+
+It did scale nicely in a linear fashion.  The longest part of the
+algorithm is looking up the IP address in a geolocation database and
+the python call that queried the API was not thread-safe.  This means
+that spreading the map tasks out allows many API queries simulateously.
+
+The output is in the tar file as part-00000.
+
+See this link for a visualization:
+For "good" paths: http://www.google.com/fusiontables/DataSource?snapid=153510
+For "bad" paths: http://www.google.com/fusiontables/DataSource?snapid=153417
+
+To run this code:
+1. Launch a hadoop cluster using Whirr, Cloudera scripts or equivalant hadoop cluster.  
+2. Set the $HADOOP_HOME environment variable for the location of your hadoop installation.  
+3.  Copy the mapper.py, reducer.py, and run_hadoop.sh files to a machine on the hadoop cluster
+4. The data files were separated into files for each day.  You will need to do something similar if you'd like to run muliple hadoop map jobs. 
+
+./run_hadoop.sh
