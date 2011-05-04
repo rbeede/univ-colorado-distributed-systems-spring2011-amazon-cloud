@@ -1,4 +1,5 @@
-#Analysis of NPAD Web100 data set using GeoIP
+*Analysis of NPAD Web100 data set using GeoIP*
+
 = Introduction =
 
 For this project, I started with the NPAD project data set available on Amazon EC2:
