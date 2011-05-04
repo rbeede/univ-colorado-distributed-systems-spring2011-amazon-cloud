@@ -22,4 +22,7 @@ http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/
 http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Blake_Caldwell/good%20paths.png
 
 === Bad paths ===
-http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Blake_Caldwell/bad%20paths.png
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Blake_Caldwell/bad_paths.png
+http://univ-colorado-distributed-systems-spring2011-amazon-cloud.googlecode.com/svn/trunk/Homework/Blake_Caldwell/bad_paths2.png
+
+== Google Earth Map (.kml) ==
