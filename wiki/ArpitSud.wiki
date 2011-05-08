@@ -67,4 +67,4 @@ The result (including the graphs) are stored in the result/ directory.
   # After you are satisfied that the results have been stored safely on a persistent storage, you can logout from the master node and run the following command from your local machine.
     {{{hadoop-ec2 terminate-cluster csci5673-pa01}}}
   # While the MapReduce job is running, you can monitor the progress of the tasks on the following URL in your browser
-<Master Node DNS Name>:50030
+     <Master Node DNS Name>:50030
