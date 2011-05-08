@@ -1,0 +1,52 @@
+#summary One-sentence summary of this page.
+
+=Introduction=
+Word Count program using Hadoop MapReduce on an Amazon EC2 cluster.
+
+=Copyright=
+See the LICENSE file.
+
+=Description=
+The program does a word frequency count in the 20-newsgroups data set (http://people.csail.mit.edu/jrennie/20Newsgroups/) using MapReduce(WordCount.java). The result is then processed through another MapReduce(CountHistogram.java) in order to find the number of words in each frequency count. After each reduce operation, the result is sorted using the UNIX sort command. The result of the second MapReduce operation is plotted on a graph using a Python script(extra-credit). The whole operation (excluding the graph generation) has been automated by means of a bash script.
+The MapReduce operations are performed on a cluster of 10 slave nodes and 1 master node.
+
+The data set used is the 20-newsgroups data-set: http://people.csail.mit.edu/jrennie/20Newsgroups/20news-18828.tar.gz
+While performing WordCount the following operations are performed:
+1. All alphabets are converted to lower case.
+2. All special characters are removed.
+3. Any extra spaces(in the beginning/end/between) are removed.
+4. The remaining string is tokeninzed to obtain words.
+
+Two different versions of graph generation program are attached. One version (generategraph_line.py) plots the points connected by a line. The other (generategraph_point.py) plots the points without connecting them.
+
+The source files are in the src/ directory.
+The result (including the graphs) are stored in the result/ directory.
+
+=Lessons Learned=
+1. Hadoop/HDFS works best with small number of large files. While the map operation on 18828 small files took close to 52 minutes on a cluster of 10 machines, when the same files were joined together into 20(bigger) files, the map operation finished in less than a minute.
+2. Writing the result of reduce operation directly to S3 is possible, but it slows down reduce by a large factor(20 minutes vs 30 seconds). It is best to write the result of reduce to HDFS and later copy it to S3/other location.
+
+=Software Components Used=
+1. Cloudera Distribution for Hadoop(CDH)
+2. CDH Cloud Scripts
+3. Java(for writing MapReduce programs)
+4. Python(and matplotlib for graph generation)
+5. EC2 Command line tools
+6. Bash scripting
+
+=Instructions=
+1. Install CDH Cloud Scripts on your local computer. Configure it with you AWS access keys.
+2. Run the following commands in order to start the cluster:
+hadoop-ec2 launch-cluster csci5673-pa01 10
+3. Login to the master node of the cluster:
+hadoop-ec2 login csci5673-pa01
+4. Copy the archive containing the Java code and scripts into the master node. Unzip/untar it.
+5. In the master node run the script setupinput.sh. This downloads the data set from the MIT website and stores it in HDFS.
+2. Set the variable MICROEBS in the environment to a running micro instance on the EC2, where the results will be copied after computation. (e.g. export MICROEBS=ec2-184-73-0-76.compute-1.amazonaws.com). This was done to make sure that the result is stored automatically in a persistent state. Initially I had tried to store the result in S3 bucket directly from the Reduce operation. But it slowed the execution of my program by a significant factor. In case you don't have a valid host to SSH into store an invalid ip address/hostname which will not resolve (e.g. export MICROEBS=foobar)
+3. Run the script pa01.sh. This compiles the Java code, submits it to hadoop, obtain and sort the results. It also stores the result in a remote machine using SSH, if MICROEBS was configured properly.
+4. The wordcount result is stored in countoutput/countoutput. The sorted word count result is stored in countoutput/sortedwordcount(both on HDFS & the local filesystem and if a valid host was entered in step 2 then also on that machine).
+5. The histogram result is stored in histoutput/histoutput. The sorted histogram result is stored in histoutput/sortedhist(both on HDFS & the local filesystem and if a valid host was entered in step 2 then also on that machine).
+6. After you are satisfied that the results have been stored safely on a persistent storage, you can logout from the master node and run the following command from your local machine.
+hadoop-ec2 terminate-cluster csci5673-pa01
+7. While the MapReduce job is running, you can monitor the progress of the tasks on the following URL in your browser
+<Master Node DNS Name>:50030
