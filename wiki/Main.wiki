@@ -31,7 +31,7 @@ This project provides documents for the projects, the source code, and the resul
  * [RyanKroiss Most Frequently used Facebook applications by Ryan Kroiss]
  * [AdityaSawhney Worldwide movie frequency from 1900-2006 by Aditya Sawhney]
  * [BlakeCaldwell Analysis of NPAD Web100 data set using GeoIP by Blake Caldwell]
- * [Word Count of 20-newsgroups data set by Arpit Sud]
+ * [ArpitSud Word Count of 20-newsgroups data set by Arpit Sud]
  * TODO list of each group/individual homework result, wiki page will document where data came from, path in SVN repository, etc
  * todo YourName Summary by First Last
  * todo ...
